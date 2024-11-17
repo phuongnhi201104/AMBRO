@@ -1,0 +1,85 @@
+<div class="container mt-4" *ngIf="congthuc">
+  <div class="row">
+    <!-- Ảnh công thức -->
+    <div class="col-md-4">
+      <img
+        [src]="congthuc.images"
+        alt="{{ congthuc.name }}"
+        class="img-fluid rounded shadow recipe-image"
+      />
+    </div>
+
+    <!-- Thông tin công thức -->
+    <div class="col-md-8">
+      <h1 class="display-5 fw-bold">{{ congthuc.name }}</h1>
+      <p class="text-muted">Ngày đăng: {{ congthuc.datePosted }}</p>
+      <p>
+        <strong>Thời gian dự kiến:</strong> {{ congthuc.estimatedTime }} phút
+      </p>
+      <p>{{ congthuc.description }}</p>
+    </div>
+  </div>
+  <br />
+  <hr />
+  <br />
+
+  <!-- Thành phần và các bước thực hiện -->
+  <div class="row mt-4">
+    <div class="col-md-6">
+      <h3 class="fw-semibold">Nguyên liệu</h3>
+      <ul class="list-group shadow-sm">
+        <li
+          class="list-group-item border-0 ps-3"
+          *ngFor="let ingredient of congthuc.ingredients"
+        >
+          {{ ingredient }}
+        </li>
+      </ul>
+    </div>
+
+    <div class="col-md-6">
+      <h3 class="fw-semibold">Các bước thực hiện</h3>
+      <ol class="list-group list-group-numbered shadow-sm">
+        <li
+          class="list-group-item border-0 ps-3"
+          *ngFor="let step of congthuc.steps"
+        >
+          {{ step }}
+        </li>
+      </ol>
+    </div>
+  </div>
+  <br />
+  <hr />
+  <br />
+  <!-- Thông tin dinh dưỡng, mẹo và lời khuyên -->
+  <div
+    class="row mt-4"
+    *ngIf="
+      congthuc.nutritionFacts ||
+      congthuc.tips ||
+      congthuc.reasons ||
+      congthuc.advice
+    "
+  >
+    <div class="col-md-6" *ngIf="congthuc.nutritionFacts">
+      <h4>Giá tri dinh dưỡng trên 1 khẩu phần</h4>
+      <p>{{ congthuc.nutritionFacts }}</p>
+    </div>
+
+    <div class="col-md-6" *ngIf="congthuc.tips">
+      <h4>Mẹo thực hiện</h4>
+      <p>{{ congthuc.tips }}</p>
+    </div>
+
+    <div class="col-md-6 mt-4" *ngIf="congthuc.reasons">
+      <h4>Tại sao bạn nên nấu {{ congthuc.name }}</h4>
+      <p>{{ congthuc.reasons }}</p>
+    </div>
+
+    <div class="col-md-6 mt-4" *ngIf="congthuc.advice">
+      <h4>Lời khuyên</h4>
+      <p>{{ congthuc.advice }}</p>
+    </div>
+  </div>
+</div>

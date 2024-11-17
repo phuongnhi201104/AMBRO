@@ -1,0 +1,48 @@
+<!-- orders.component.html -->
+<div class="orders-container">
+  <h1>All Orders</h1>
+
+  <div class="filter-bar">
+    <label>Filter by Product</label>
+    <select [(ngModel)]="selectedProduct" (change)="applyFilter()">
+      <option *ngFor="let product of types" [value]="product">
+        {{ product }}
+      </option>
+    </select>
+
+    <label>Filter by Quantity</label>
+    <select [(ngModel)]="selectedQuantity" (change)="applyFilter()">
+      <option *ngFor="let quantity of sizes" [value]="quantity">
+        {{ quantity }}
+      </option>
+    </select>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Order ID</th>
+        <th>Customer Name</th>
+        <th>Order Date</th>
+        <th>Products</th>
+        <th>Total Amount</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let order of orders">
+        <td>{{ order.orderId }}</td>
+        <td>{{ order.customerName }}</td>
+        <td>{{ order.orderDate }}</td>
+        <td>
+          <ul>
+            <li *ngFor="let product of order.products">
+              {{ product.productName }} - {{ product.quantity }} -
+              {{ product.price | currency }}
+            </li>
+          </ul>
+        </td>
+        <td>{{ order.totalAmount | currency }}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>

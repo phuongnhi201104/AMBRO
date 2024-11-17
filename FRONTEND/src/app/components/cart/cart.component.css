@@ -1,0 +1,115 @@
+.container{
+    display: flex;
+    gap: 20px
+  }
+  
+  
+  .container-table {
+      padding: 20px;
+      border: 1px solid #ddd;
+      width: 75%;
+    }
+    
+    .cart-title {
+      text-align: center;
+      font-size: 24px;
+      font-weight: bold;
+      margin-bottom: 20px;
+    }
+    
+  
+    .left{
+      text-align: left;
+    }
+    .cart-table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    
+    .cart-table th, .cart-table td {
+      padding: 10px;
+      text-align: center;
+    }
+  
+    thead{
+      border: 1px solid #ddd;
+      
+    }
+    
+  
+    .table{
+      border:  1px solid #ddd;
+    }
+    
+  
+    .cart-table td img {
+      /* Cập nhật kích thước hình ảnh để tất cả đều giống nhau */
+      width: 100px; /* Đặt chiều rộng cố định cho hình ảnh */
+      height: 100px; /* Đặt chiều cao cố định cho hình ảnh */
+      object-fit: cover; /* Đảm bảo hình ảnh không bị méo và được cắt phù hợp */
+      margin-right: 15px;
+    }
+    
+    .cart-table input[type="number"] {
+      width: 60px;
+    }
+    
+    .cart-summary {
+      /* margin-top: 20px; */
+      text-align: right;
+    }
+    
+    .cart-summary button {
+      padding: 10px 20px;
+      background-color: #d32f2f;
+      color: white;
+      border: none;
+      cursor: pointer;
+      border-radius: 20px;
+    }
+    
+    .cart-summary button:hover {
+      background-color: #d32f2f;
+    }
+    
+  .container-payment{
+    width: 25%;
+    border: 1px solid #ddd;
+    padding: 20px;
+    height: 300px;
+  }
+  
+  .button-payment{
+    display: block;
+    margin: 0 auto;
+    border-radius: 20px;
+    border: none;
+    background-color: #FDD96B;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .button-payment:hover{
+    background-color: #3BB77E;
+  }
+  
+  .selected-row {
+    background-color: #3BB77E; 
+    color: white;
+  }
+  
+  .info-below{
+    display: flex;
+    gap: 480px
+  }
+  
+  .continue-buying button{
+    border: none;
+    border-radius: 20px;
+    background-color: #3bb77e;
+    color: white;
+    padding: 10px;
+    width: 170px;
+  }

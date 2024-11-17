@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1,
+    "name": "Eat Clean, Save Big!",
+    "title": "Tiết kiệm lớn với lối sống lành mạnh!",
+    "description": "Bạn đã sẵn sàng nâng cấp chế độ ăn uống của mình mà không cần lo lắng về chi phí? Chương trình \"Eat Clean, Save Big!\" mang đến cho bạn cơ hội ăn sạch, sống khỏe mà còn tiết kiệm đáng kể! Với mỗi đơn hàng từ 300.000 VNĐ trở lên, bạn sẽ nhận ngay ưu đãi giảm giá 15%. Đây là cơ hội tuyệt vời để bạn thỏa thích lựa chọn những món ăn bổ dưỡng, tốt cho sức khỏe và không còn lo lắng về chi phí.",
+    "reasons_to_join": "Lối sống eat-clean ngày càng phổ biến nhờ lợi ích tuyệt vời cho sức khỏe và vóc dáng. Dù bạn muốn giảm cân, duy trì cân nặng, hay đơn giản là bổ sung dinh dưỡng lành mạnh, \"Eat Clean, Save Big!\" sẽ là lựa chọn hoàn hảo để giúp bạn thực hiện mục tiêu mà không gây ảnh hưởng đến túi tiền. Sản phẩm của chúng tôi được chế biến từ nguyên liệu tươi ngon, không chất bảo quản, giúp bạn an tâm thưởng thức.",
+    "promotion_details": [
+      "Giảm 15% cho đơn hàng từ 300.000 VNĐ trở lên.",
+      "Áp dụng cho mọi sản phẩm và dịch vụ eat-clean.",
+      "Không giới hạn số lần sử dụng mã khuyến mãi."
+    ],
+    "voucher_code": "SAVE15",
+    "benefits": [
+      "Tiết kiệm chi phí mỗi khi mua sắm.",
+      "Lựa chọn đa dạng các món ăn bổ dưỡng.",
+      "Hưởng ưu đãi giảm giá nhưng không giảm chất lượng."
+    ],
+    "note": "Chương trình có thời gian giới hạn, vì vậy đừng bỏ lỡ cơ hội này để tận hưởng những bữa ăn chất lượng và tiết kiệm cùng \"Eat Clean, Save Big!\""
+  },
+  {
+    "id": 2,
+    "name": "Combo Clean & Green - Mua là hời!",
+    "title": "Sở hữu combo xanh, siêu tiết kiệm cho bữa ăn lành mạnh!",
+    "description": "Thực phẩm eat-clean không chỉ tốt cho sức khỏe mà còn giúp bạn cân bằng cuộc sống! Đến với \"Combo Clean & Green - Mua là hời!\", bạn sẽ được tận hưởng mức giá ưu đãi đặc biệt với các combo ăn uống lành mạnh. Mỗi combo đều được thiết kế hoàn hảo để cung cấp đủ dinh dưỡng, phù hợp với từng nhu cầu ăn uống khác nhau như bữa sáng, bữa trưa, bữa tối, hoặc các gói tiết kiệm tuần.",
+    "reasons_to_join": "Combo Clean & Green được tạo ra dành riêng cho những người yêu thích lối sống lành mạnh mà vẫn muốn tiết kiệm thời gian. Bạn không cần phải lo lắng về việc chuẩn bị bữa ăn, mà vẫn có thể ăn ngon và đầy đủ dinh dưỡng mỗi ngày.",
+    "promotion_details": [
+      "Giảm giá 25% cho các combo eat-clean.",
+      "Combo bao gồm: combo văn phòng, combo giảm cân, combo duy trì cân nặng, combo ăn sáng.",
+      "Dễ dàng lựa chọn và tùy biến để phù hợp với nhu cầu cá nhân."
+    ],
+    "voucher_code": "COMBO25",
+    "benefits": [
+      "Tận hưởng bữa ăn chất lượng mỗi ngày.",
+      "Tiết kiệm tối đa với mức giá cực ưu đãi.",
+      "Nâng cao sức khỏe và tinh thần, giúp bạn có thêm năng lượng cho ngày dài."
+    ],
+    "note": "Chương trình có thể kết thúc sớm nếu số lượng combo đạt ngưỡng tối đa, vì vậy đừng bỏ lỡ ưu đãi này để sở hữu ngay những combo tuyệt vời từ \"Combo Clean & Green - Mua là hời!\""
+  },
+  {
+    "id": 3,
+    "name": "Flash Clean - Giờ vàng ưu đãi",
+    "title": "Khung giờ vàng – Thực phẩm sạch, giá cực sốc!",
+    "description": "Chương trình \"Flash Clean - Giờ vàng ưu đãi\" là cơ hội vàng để bạn sở hữu những món ăn eat-clean ngon lành với mức giá giảm không tưởng! Trong khung giờ đặc biệt từ 14h đến 16h mỗi ngày, tất cả sản phẩm trên website của chúng tôi sẽ được giảm 30%. Đây chính là thời điểm lý tưởng để bạn trải nghiệm và mua sắm các sản phẩm eat-clean mà không cần lo ngại về giá cả.",
+    "reasons_to_join": "Thời gian giới hạn và mức giảm giá hấp dẫn sẽ giúp bạn vừa tiết kiệm vừa mua sắm hiệu quả. Với \"Flash Clean - Giờ vàng ưu đãi\", bạn có thể nhanh chóng nạp năng lượng cho buổi chiều hoặc chuẩn bị cho bữa tối lành mạnh mà vẫn tiết kiệm ngân sách.",
+    "promotion_details": [
+      "Giảm 30% cho tất cả sản phẩm từ 14h đến 16h mỗi ngày.",
+      "Không giới hạn số lượng đặt hàng.",
+      "Áp dụng cho mọi sản phẩm eat-clean trong thời gian khuyến mãi."
+    ],
+    "voucher_code": "FLASH30",
+    "benefits": [
+      "Mức giá giảm đặc biệt giúp bạn tiết kiệm tối đa.",
+      "Đa dạng lựa chọn thực phẩm tươi ngon, tốt cho sức khỏe.",
+      "Tận hưởng những bữa ăn bổ dưỡng, giàu năng lượng mà không ảnh hưởng đến ngân sách."
+    ],
+    "note": "Đừng quên đặt báo thức để không bỏ lỡ khung giờ vàng, chỉ kéo dài từ 14h đến 16h mỗi ngày!"
+  },
+  {
+    "id": 4,
+    "name": "Nạp Năng Lượng - Giảm Căng Thẳng",
+    "title": "Nạp năng lượng – Xua tan căng thẳng với ưu đãi tuyệt vời!",
+    "description": "Ngày làm việc bận rộn và căng thẳng khiến bạn mệt mỏi? \"Nạp Năng Lượng - Giảm Căng Thẳng\" là chương trình khuyến mãi được thiết kế dành riêng cho bạn! Với ưu đãi giảm 15% cho các món ăn bổ dưỡng, giàu năng lượng như các loại salad hạt, súp eat-clean, giúp bạn giảm căng thẳng, thư giãn và tái tạo năng lượng hiệu quả.",
+    "reasons_to_join": "Các loại thực phẩm giàu chất xơ, protein và vitamin sẽ giúp giảm căng thẳng, ổn định tinh thần và nâng cao sức khỏe. Đặc biệt, với khuyến mãi \"Nạp Năng Lượng - Giảm Căng Thẳng\", bạn có thể tận hưởng mức giá ưu đãi mà vẫn đảm bảo chế độ ăn uống lành mạnh.",
+    "promotion_details": [
+      "Giảm 15% cho các món ăn giúp giảm căng thẳng.",
+      "Áp dụng cho các loại salad hạt, súp eat-clean và các món ăn giàu vitamin.",
+      "Không giới hạn số lần sử dụng mã khuyến mãi."
+    ],
+    "voucher_code": "RELAX15",
+    "benefits": [
+      "Tăng cường sức khỏe và giảm căng thẳng tinh thần.",
+      "Tiết kiệm chi phí mà vẫn tận hưởng chế độ dinh dưỡng tối ưu.",
+      "Đa dạng lựa chọn giúp bạn dễ dàng lên kế hoạch bữa ăn lành mạnh."
+    ],
+    "note": "Chương trình chỉ áp dụng trong thời gian ngắn. Hãy nhanh tay đặt hàng ngay để tận hưởng ưu đãi đặc biệt từ \"Nạp Năng Lượng - Giảm Căng Thẳng\"!"
+  }
+]

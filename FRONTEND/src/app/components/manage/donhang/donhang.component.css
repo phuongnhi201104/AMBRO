@@ -1,0 +1,23 @@
+/* orders.component.css */
+.orders-container {
+  padding: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table th,
+table td {
+  padding: 10px;
+  text-align: left;
+}
+
+.filter-bar {
+  margin-bottom: 20px;
+}
+
+select {
+  margin-left: 10px;
+}

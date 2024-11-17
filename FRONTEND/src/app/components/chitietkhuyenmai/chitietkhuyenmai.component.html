@@ -1,0 +1,57 @@
+<div class="container my-5" *ngIf="khuyenmai">
+  <div class="card promotion-detail-card shadow-lg p-4">
+    <h2 class="text-primary mb-3">{{ khuyenmai.name }}</h2>
+    <h5 class="text-muted mb-4">{{ khuyenmai.title }}</h5>
+    <img
+      [src]="khuyenmai.banner"
+      class="img-fluid"
+      alt="{{ khuyenmai.name }}"
+    />
+
+    <div class="mb-4">
+      <h5 class="font-weight-bold">Mô tả chương trình khuyến mãi</h5>
+      <p>Thời gian diễn ra: {{ khuyenmai.time }}</p>
+      <p>{{ khuyenmai.description }}</p>
+    </div>
+
+    <div class="mb-4">
+      <h5 class="font-weight-bold">Lý do nên tham gia chương trình</h5>
+      <p>{{ khuyenmai.reasons_to_join }}</p>
+    </div>
+
+    <div class="mb-4">
+      <h5 class="font-weight-bold">Thông tin chi tiết</h5>
+      <ul class="list-group list-group-flush">
+        <li
+          *ngFor="let detail of khuyenmai.promotion_details"
+          class="list-group-item"
+        >
+          <i class="bi bi-check-circle text-success"></i> {{ detail }}
+        </li>
+      </ul>
+    </div>
+
+    <div class="mb-4">
+      <h5 class="font-weight-bold">Mã Voucher</h5>
+      <div class="voucher-code bg-light p-3 rounded text-center">
+        <span class="text-uppercase font-weight-bold">{{
+          khuyenmai.voucher_code
+        }}</span>
+      </div>
+    </div>
+
+    <div class="mb-4">
+      <h5 class="font-weight-bold">Lợi ích khuyến mãi</h5>
+      <ul class="list-group list-group-flush">
+        <li *ngFor="let benefit of khuyenmai.benefits" class="list-group-item">
+          <i class="bi bi-star-fill text-warning"></i> {{ benefit }}
+        </li>
+      </ul>
+    </div>
+
+    <div>
+      <h5 class="font-weight-bold">Lưu ý</h5>
+      <p class="text-muted">{{ khuyenmai.note }}</p>
+    </div>
+  </div>
+</div>

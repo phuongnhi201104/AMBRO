@@ -1,0 +1,211 @@
+[
+  {
+    "orderId": "ORD001",
+    "customerName": "Nguyễn Văn A",
+    "orderDate": "2024-11-01",
+    "products": [
+      { "productName": "Gạo lứt đen", "quantity": 2, "price": 30000 },
+      { "productName": "Bún gạo lứt", "quantity": 1, "price": 20000 },
+      { "productName": "Hạt óc chó", "quantity": 1, "price": 150000 }
+    ],
+    "totalAmount": 210000
+  },
+  {
+    "orderId": "ORD002",
+    "customerName": "Trần Thị B",
+    "orderDate": "2024-11-02",
+    "products": [
+      { "productName": "Gạo lứt đỏ", "quantity": 3, "price": 28000 },
+      { "productName": "Bún chùm ngây", "quantity": 2, "price": 25000 }
+    ],
+    "totalAmount": 136000
+  },
+  {
+    "orderId": "ORD003",
+    "customerName": "Lê Quang C",
+    "orderDate": "2024-11-03",
+    "products": [
+      { "productName": "Gạo lứt tím", "quantity": 5, "price": 32000 },
+      { "productName": "Mì gạo lứt", "quantity": 2, "price": 22000 }
+    ],
+    "totalAmount": 190000
+  },
+  {
+    "orderId": "ORD004",
+    "customerName": "Phan Thị D",
+    "orderDate": "2024-11-04",
+    "products": [
+      { "productName": "Bún đậu biếc", "quantity": 4, "price": 27000 },
+      { "productName": "Hạt dẻ", "quantity": 1, "price": 120000 }
+    ],
+    "totalAmount": 228000
+  },
+  {
+    "orderId": "ORD005",
+    "customerName": "Hoàng Văn E",
+    "orderDate": "2024-11-05",
+    "products": [
+      { "productName": "Bún gấc", "quantity": 3, "price": 30000 },
+      { "productName": "Mì chùm ngây", "quantity": 2, "price": 25000 }
+    ],
+    "totalAmount": 175000
+  },
+  {
+    "orderId": "ORD006",
+    "customerName": "Nguyễn Thị F",
+    "orderDate": "2024-11-06",
+    "products": [
+      { "productName": "Hạt macca", "quantity": 1, "price": 200000 },
+      { "productName": "Granola", "quantity": 2, "price": 50000 }
+    ],
+    "totalAmount": 300000
+  },
+  {
+    "orderId": "ORD007",
+    "customerName": "Bùi Quang G",
+    "orderDate": "2024-11-07",
+    "products": [
+      { "productName": "Bánh biscotti", "quantity": 3, "price": 45000 },
+      { "productName": "Bánh ngói hạnh nhân", "quantity": 2, "price": 60000 }
+    ],
+    "totalAmount": 195000
+  },
+  {
+    "orderId": "ORD008",
+    "customerName": "Trần Văn H",
+    "orderDate": "2024-11-08",
+    "products": [
+      { "productName": "Bánh waffle yến mạch", "quantity": 2, "price": 40000 },
+      { "productName": "Bánh chuối yến mạch", "quantity": 1, "price": 35000 }
+    ],
+    "totalAmount": 115000
+  },
+  {
+    "orderId": "ORD009",
+    "customerName": "Lê Thị I",
+    "orderDate": "2024-11-09",
+    "products": [
+      { "productName": "Bánh quy hạnh nhân", "quantity": 4, "price": 30000 },
+      { "productName": "Bánh mì nguyên cám", "quantity": 2, "price": 50000 }
+    ],
+    "totalAmount": 200000
+  },
+  {
+    "orderId": "ORD010",
+    "customerName": "Hoàng Quang J",
+    "orderDate": "2024-11-10",
+    "products": [
+      {
+        "productName": "Bánh quy mè rang yến mạch",
+        "quantity": 3,
+        "price": 35000
+      },
+      { "productName": "Bánh kẹp rong biển", "quantity": 2, "price": 40000 }
+    ],
+    "totalAmount": 145000
+  },
+  {
+    "orderId": "ORD011",
+    "customerName": "Nguyễn Thị K",
+    "orderDate": "2024-11-11",
+    "products": [
+      { "productName": "Bánh thanh gạo lứt", "quantity": 5, "price": 25000 },
+      { "productName": "Gạo lứt đen", "quantity": 2, "price": 30000 }
+    ],
+    "totalAmount": 175000
+  },
+  {
+    "orderId": "ORD012",
+    "customerName": "Bùi Quang L",
+    "orderDate": "2024-11-12",
+    "products": [
+      { "productName": "Gạo lứt đỏ", "quantity": 3, "price": 28000 },
+      { "productName": "Bún gạo lứt", "quantity": 1, "price": 20000 }
+    ],
+    "totalAmount": 124000
+  },
+  {
+    "orderId": "ORD013",
+    "customerName": "Trần Thị M",
+    "orderDate": "2024-11-13",
+    "products": [
+      { "productName": "Gạo lứt tím", "quantity": 2, "price": 32000 },
+      { "productName": "Mì gạo lứt", "quantity": 3, "price": 22000 }
+    ],
+    "totalAmount": 164000
+  },
+  {
+    "orderId": "ORD014",
+    "customerName": "Lê Quang N",
+    "orderDate": "2024-11-14",
+    "products": [
+      { "productName": "Bún đậu biếc", "quantity": 1, "price": 27000 },
+      { "productName": "Hạt dẻ", "quantity": 2, "price": 120000 }
+    ],
+    "totalAmount": 264000
+  },
+  {
+    "orderId": "ORD015",
+    "customerName": "Phan Thị O",
+    "orderDate": "2024-11-15",
+    "products": [
+      { "productName": "Bún gấc", "quantity": 3, "price": 30000 },
+      { "productName": "Mì chùm ngây", "quantity": 1, "price": 25000 }
+    ],
+    "totalAmount": 125000
+  },
+  {
+    "orderId": "ORD016",
+    "customerName": "Hoàng Văn P",
+    "orderDate": "2024-11-16",
+    "products": [
+      { "productName": "Hạt macca", "quantity": 1, "price": 200000 },
+      { "productName": "Granola", "quantity": 1, "price": 50000 }
+    ],
+    "totalAmount": 250000
+  },
+  {
+    "orderId": "ORD017",
+    "customerName": "Nguyễn Thị Q",
+    "orderDate": "2024-11-17",
+    "products": [
+      { "productName": "Bánh biscotti", "quantity": 2, "price": 45000 },
+      { "productName": "Bánh ngói hạnh nhân", "quantity": 1, "price": 60000 }
+    ],
+    "totalAmount": 150000
+  },
+  {
+    "orderId": "ORD018",
+    "customerName": "Bùi Quang R",
+    "orderDate": "2024-11-18",
+    "products": [
+      { "productName": "Bánh waffle yến mạch", "quantity": 1, "price": 40000 },
+      { "productName": "Bánh chuối yến mạch", "quantity": 3, "price": 35000 }
+    ],
+    "totalAmount": 145000
+  },
+  {
+    "orderId": "ORD019",
+    "customerName": "Trần Thị S",
+    "orderDate": "2024-11-19",
+    "products": [
+      { "productName": "Bánh quy hạnh nhân", "quantity": 2, "price": 30000 },
+      { "productName": "Bánh mì nguyên cám", "quantity": 2, "price": 50000 }
+    ],
+    "totalAmount": 160000
+  },
+  {
+    "orderId": "ORD020",
+    "customerName": "Lê Quang T",
+    "orderDate": "2024-11-20",
+    "products": [
+      {
+        "productName": "Bánh quy mè rang yến mạch",
+        "quantity": 2,
+        "price": 35000
+      },
+      { "productName": "Bánh kẹp rong biển", "quantity": 2, "price": 40000 }
+    ],
+    "totalAmount": 150000
+  }
+]

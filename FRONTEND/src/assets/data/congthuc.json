@@ -1,0 +1,638 @@
+[
+  {
+    "id": 1,
+    "name": "Salad Cá Hồi Nướng Sốt Chanh thơm ",
+    "images": "https://res.cloudinary.com/didmwsu4f/image/upload/v1731461729/T1_tiw2wk.jpg",
+    "datePosted": "2024-11-20",
+    "estimatedTime": 5,
+    "description": "Cá hồi, với hàm lượng omega-3 dồi dào, luôn là lựa chọn hàng đầu cho những ai quan tâm đến sức khỏe tim mạch. Khi kết hợp với vị chua thanh của chanh và độ giòn ngọt của rau củ, món salad cá hồi nướng sốt chanh thơm sẽ mang đến một trải nghiệm ẩm thực tuyệt vời mà vẫn đảm bảo đầy đủ dưỡng chất.",
+    "ingredients": [
+      "200g phi lê cá hồi",
+      "100g xà lách romaine",
+      "50g rau mầm",
+      "1 quả bơ chín",
+      "1/2 quả táo xanh",
+      "2 thìa canh dầu ô liu extra virgin",
+      "Nước cốt 1 quả chanh",
+      "Muối hồng",
+      "Tiêu đen xay",
+      "1 nhánh húng quế tươi thái nhỏ",
+      "2 thìa canh hạt chia hoặc hạt bí ngô"
+    ],
+    "steps": [
+      "Rửa sạch phi lê cá hồi, thấm khô, và ướp với dầu ô liu, muối, tiêu trong 15 phút.",
+      "Nướng cá hồi ở 200°C trong 12-15 phút cho đến khi cá chín và vàng.",
+      "Chuẩn bị salad: thái nhỏ rau, cắt bơ và táo thành miếng vừa ăn.",
+      "Pha sốt bằng cách trộn đều nước cốt chanh, dầu ô liu, muối và tiêu.",
+      "Xếp salad và rau củ ra đĩa, rưới sốt, thêm cá hồi và rắc húng quế lên trên cùng."
+    ],
+    "nutritionFacts": "Calo: khoảng 450calo\nProtein: khoảng 35g\nChất béo: khoảng 25g (chủ yếu là chất béo không bão hòa đơn và đa)\nCarbohydrate: khoảng 25g\nChất xơ: khoảng 8g",
+    "tips": "Có thể thay cá hồi bằng các loại cá giàu omega-3 khác như cá thu hoặc cá ngừ. \n Dùng thêm hạt chia hoặc hạt bí ngô để bổ sung chất xơ và protein.",
+    "reasons": "Giàu omega-3 giúp bảo vệ tim mạch và cải thiện trí nhớ. \n Rau củ và trái cây cung cấp nhiều vitamin và khoáng chất cần thiết.",
+    "advice": "Nên chọn cá hồi tươi để đảm bảo hương vị. \n Sử dụng dầu ô liu extra virgin để tăng hương vị và lợi ích cho sức khỏe."
+  },
+  {
+    "id": 2,
+    "name": "Bò lúc lắc rau củ thập sắc",
+    "images": "https://res.cloudinary.com/didmwsu4f/image/upload/v1731461730/T2_u5uhy4.jpg",
+    "datePosted": "2024-11-10",
+    "estimatedTime": 3,
+    "description": "Bò lúc lắc rau củ thập sắc là một món ăn đơn giản, dễ làm nhưng lại rất giàu dinh dưỡng. Món ăn này không chỉ giúp bạn no lâu mà còn cung cấp đầy đủ năng lượng cho cả ngày dài. Hãy bổ sung món ăn này vào thực đơn eat clean của bạn để có một cơ thể khỏe mạnh và tràn đầy năng lượng nhé!",
+    "ingredients": [
+      "200g thăn bò (chọn phần thịt mềm, ít gân)",
+      "1/2 củ hành tây",
+      "1/2 quả ớt chuông đỏ",
+      "1/2 quả ớt chuông vàng",
+      "100g nấm (nấm hương, nấm đùi gà, ...)",
+      "1 củ cà rốt",
+      "2 thìa canh dầu hào",
+      "1 thìa cà phê dầu ăn",
+      "2 tép tỏi băm",
+      "1/2 thìa cà phê tiêu",
+      "Hành lá, rau mùi (để trang trí)"
+    ],
+    "steps": [
+      "Sơ chế nguyên liệu: Thịt bò rửa sạch, thái lát mỏng ngang thớ. Ướp thịt với dầu hào, tỏi băm, tiêu trong khoảng 15-20 phút cho thịt ngấm gia vị. Rau củ rửa sạch, cắt hạt lựu vừa ăn.",
+      "Xào thịt: Đặt chảo lên bếp, cho dầu ăn vào đun nóng. Cho thịt bò vào xào nhanh tay trên lửa lớn đến khi thịt chín tái, thịt vẫn giữ được độ mềm. Gắp thịt ra đĩa.",
+      "Xào rau củ: Cho hành tây vào xào trước đến khi hành mềm, tiếp theo cho ớt chuông, nấm và cà rốt vào xào cùng. Nêm nếm gia vị vừa ăn.",
+      "Trộn đều và trình bày: Cho thịt bò đã xào chín vào chảo rau củ, đảo đều. Tắt bếp, rắc hành lá và rau mùi lên trên. Múc bò lúc lắc ra đĩa và thưởng thức ngay khi còn nóng."
+    ],
+
+    "nutritionFacts": "Năng lượng: Khoảng 350 calo \n Protein: Khoảng 35g \n Chất béo: Khoảng 15g \n Carbohydrate: Khoảng 20g",
+
+    "tips": "Để món ăn thêm hấp dẫn, bạn có thể thêm một chút nước sốt tương ớt hoặc sốt me. \n Bạn có thể thay thế các loại rau củ theo mùa và sở thích của mình. \n Để tăng cường hương vị, bạn có thể thêm một ít hạt tiêu đen xay tươi.",
+    "reasons": "Thịt bò: Là nguồn cung cấp protein chất lượng cao, giúp xây dựng và phục hồi cơ bắp, tăng cường sức đề kháng. \n Rau củ: Cung cấp vitamin, khoáng chất, chất xơ cần thiết cho cơ thể, giúp tăng cường hệ tiêu hóa, ngăn ngừa các bệnh mãn tính. \n Ít chất béo: Món ăn được chế biến chủ yếu bằng cách xào, hạn chế sử dụng dầu mỡ, giúp giảm lượng chất béo nạp vào cơ thể.",
+    "advice": "Bò lúc lắc rau củ thập sắc là một món ăn đơn giản, dễ làm nhưng lại rất giàu dinh dưỡng.\n Món ăn này không chỉ giúp bạn no lâu mà còn cung cấp đầy đủ năng lượng cho cả ngày dài."
+  },
+
+  {
+    "id": 3,
+    "name": "Cơm gạo lứt thập cẩm",
+    "images": "https://res.cloudinary.com/didmwsu4f/image/upload/v1731461730/T3_psduiv.jpg",
+    "datePosted": "2024-11-05",
+    "estimatedTime": 6,
+    "ingredients": [
+      "Gạo lứt: 100g (Chọn loại gạo lứt nguyên hạt để đảm bảo hàm lượng chất xơ cao nhất)",
+      "Đậu xanh: 50g (Ngâm qua đêm để đậu mềm nhanh hơn)",
+      "Ngô ngọt: 50g (Cắt hạt hoặc để nguyên tùy thích)",
+      "Cà rốt: 50g (Gọt vỏ, thái hạt lựu)",
+      "Hành lá: 2 cây (Thái nhỏ)",
+      "Dầu ăn: 1 muỗng canh (Dầu oliu, dầu mè hoặc dầu dừa đều phù hợp)",
+      "Nước: Vừa đủ để nấu cơm",
+      "Gia vị: Muối, tiêu (Tùy thích)"
+    ],
+    "steps": [
+      "Vo sạch gạo lứt, đậu xanh.",
+      "Ngô ngọt rửa sạch.",
+      "Cà rốt gọt vỏ, thái hạt lựu.",
+      "Hành lá thái nhỏ.",
+      "Cho gạo lứt, đậu xanh, ngô ngọt, cà rốt vào nồi cơm điện.",
+      "Thêm nước vừa đủ (Tỷ lệ nước và gạo thường là 1:1.2, tuy nhiên có thể điều chỉnh tùy theo loại gạo lứt và sở thích).",
+      "Nêm thêm một chút muối và tiêu nếu thích.",
+      "Bật nút nấu cơm.",
+      "Khi cơm chín, trộn đều để các nguyên liệu hòa quyện vào nhau.",
+      "Rắc hành lá lên trên và thưởng thức ngay khi còn nóng."
+    ],
+    "nutritionFacts": "Calo: Khoảng 300 calo \n Protein: Khoảng 10g \n Chất béo: Khoảng 5g \n Carbohydrate: Khoảng 60g \n Chất xơ: Rất cao, chủ yếu từ gạo lứt và các loại đậu.",
+    "reasons": "Gạo lứt: Là nguồn cung cấp chất xơ dồi dào, giúp ổn định đường huyết, tăng cường hệ tiêu hóa và tạo cảm giác no lâu.\n Đậu xanh: Giàu protein thực vật, vitamin B và khoáng chất.\n Ngô ngọt: Cung cấp vitamin A, C và các chất chống oxy hóa.",
+    "tips": "Bạn có thể thêm các loại hạt như hạt chia, hạt lanh để tăng thêm chất xơ và chất béo tốt.\n Để món ăn thêm hấp dẫn, bạn có thể thay đổi các loại rau củ theo mùa như bí đỏ, đậu cô ve, nấm...",
+    "advice": "Uống đủ nước và tập thể dục đều đặn để duy trì sức khỏe và cân đối cơ thể."
+  },
+  {
+    "id": 4,
+    "name": "Canh bí đỏ nấu đậu hũ",
+    "images": "https://res.cloudinary.com/didmwsu4f/image/upload/v1731461730/T4_qdnjmp.jpg",
+    "datePosted": "2024-11-1",
+    "estimatedTime": 6,
+    "ingredients": [
+      "500g bí đỏ (chọn loại bí đỏ Nhật Bản hoặc bí đỏ Hồ Lô để có vị ngọt đậm đà)",
+      "200g đậu hũ non",
+      "1 củ hành tây",
+      "3 tép tỏi",
+      "1 lít nước dùng gà hoặc nước lọc",
+      "2 thìa canh dầu ăn",
+      "1 thìa cà phê muối",
+      "1/2 thìa cà phê tiêu",
+      "1/4 thìa cà phê đường",
+      "1/2 thìa cà phê bột ngọt (tùy chọn)",
+      "1/2 thìa cà phê hạt nêm",
+      "Hành lá thái nhỏ",
+      "Tiêu xay"
+    ],
+    "steps": [
+      "Bí đỏ gọt vỏ, bỏ hạt, cắt thành khối vừa ăn.",
+      "Đậu hũ cắt thành khối vuông vừa miệng.",
+      "Hành tây thái hạt lựu.",
+      "Tỏi băm nhỏ.",
+      "Cho dầu ăn vào nồi, đun nóng.",
+      "Cho tỏi băm vào phi thơm.",
+      "Tiếp tục cho hành tây vào xào cho đến khi hành tây trong và mềm.",
+      "Cho bí đỏ vào nồi, đảo đều.",
+      "Đổ nước dùng hoặc nước lọc vào nồi, đun sôi.",
+      "Nêm nếm gia vị: muối, tiêu, đường, bột ngọt, hạt nêm cho vừa miệng.",
+      "Hạ lửa, đun nhỏ lửa trong khoảng 15-20 phút cho đến khi bí đỏ chín mềm.",
+      "Cho đậu hũ vào nồi, đun thêm 5 phút nữa cho đậu hũ nóng đều.",
+      "Múc canh ra bát và rắc hành lá thái nhỏ và tiêu xay lên trên."
+    ],
+
+    "nutritionFacts": "Năng lượng: 150-200 calo \n Protein: 10-15g \n Chất béo: 5-8g \n Carbohydrate: 20-25g \n Chất xơ: 5-7g \n Vitamin A, C, các khoáng chất như kali, magie...",
+    "reasons": "Bí đỏ: Cung cấp beta-carotene, chuyển hóa thành vitamin A, tốt cho mắt và hệ miễn dịch. Đậu hũ: Nguồn protein thực vật chất lượng cao, giúp xây dựng cơ bắp và tăng cường sức khỏe xương.",
+    "tips": "Để tăng hương vị, bạn có thể cho thêm một ít nấm hương hoặc nấm đông cô vào canh. Nếu thích ăn cay, bạn có thể cho thêm một ít ớt tươi vào khi nấu.",
+    "advice": "Nên chọn bí đỏ tươi, vỏ sáng bóng, không bị dập nát. Đậu hũ non sẽ có vị thơm ngon và mềm mịn hơn. Nên sử dụng nước dùng gà tự làm để có hương vị thơm ngon tự nhiên."
+  },
+
+  {
+    "id": 5,
+    "name": "Bánh mì nguyên cám kẹp gà nướng và rau xanh",
+    "images": "https://res.cloudinary.com/didmwsu4f/image/upload/v1731461730/T5_wy00xr.jpg",
+    "datePosted": "2024-10-15",
+    "estimatedTime": 6,
+    "ingredients": [
+      "2 lát bánh mì nguyên cám",
+      "100g ức gà tươi",
+      "2-3 lá xà lách",
+      "3-4 quả cà chua bi",
+      "1/4 quả dưa chuột (tùy chọn)",
+      "Muối, tiêu",
+      "Dầu ô liu extra virgin",
+      "Các loại gia vị ướp gà (tỏi băm, hành tím băm, ớt bột, paprika, oregano)",
+      "Mayonnaise ít béo (tùy chọn)",
+      "Mustard Dijon (tùy chọn)",
+      "Bơ đậu phộng (tùy chọn)"
+    ],
+    "steps": [
+      "Rửa sạch ức gà, dùng khăn giấy thấm khô.",
+      "Thái ức gà thành các miếng mỏng vừa ăn.",
+      "Ướp gà với muối, tiêu, dầu ô liu và các loại gia vị ướp gà trong 15-20 phút.",
+      "Làm nóng vỉ nướng.",
+      "Cho các miếng gà lên vỉ và nướng chín đều hai mặt.",
+      "Rửa sạch các loại rau và thái nhỏ xà lách, cà chua bi và dưa chuột.",
+      "Phết một lớp mayonnaise hoặc mustard lên lát bánh mì (nếu dùng), sau đó xếp rau, gà nướng lên trên, rồi đậy bánh lại."
+    ],
+    "nutritionFacts": "Calo: 300 calo \n Protein: 25g \n Chất béo: 10g \n Carbohydrate: 30g",
+    "tips": "Thêm một lát phô mai ít béo hoặc một ít bơ đậu phộng để tăng thêm hương vị.\n Nếu không có vỉ nướng, có thể áp chảo gà trên chảo chống dính. \n Nướng nhẹ bánh mì trước khi kẹp các nguyên liệu khác để bánh giòn hơn.",
+    "reasons": "Bánh mì nguyên cám cung cấp chất xơ, giúp hệ tiêu hóa hoạt động tốt và tạo cảm giác no lâu hơn.\n Ức gà là nguồn protein chất lượng cao, hỗ trợ xây dựng cơ bắp.\n Rau xanh cung cấp vitamin và khoáng chất, tăng cường hệ miễn dịch.",
+    "advice": "Có thể thay thế ức gà bằng thịt bò, thịt lợn hoặc hải sản tùy sở thích.\n Thêm gia vị để tạo hương vị mới lạ.\n Uống kèm với nước ép trái cây tươi hoặc sữa không đường để bổ sung thêm vitamin."
+  },
+  {
+    "id": 6,
+    "name": "Bún ức gà nướng",
+    "images": "https://res.cloudinary.com/didmwsu4f/image/upload/v1731461731/T6_oe3xww.jpg",
+    "datePosted": "2024-10-10",
+    "estimatedTime": 10,
+    "ingredients": [
+      "150g ức gà fillet",
+      "100g bún gạo lứt",
+      "30g cà chua cherry",
+      "100g rau cải ngọt",
+      "1 thìa cà phê dầu oliu",
+      "Muối, tiêu, bột ớt (gia vị ướp gà)"
+    ],
+    "steps": [
+      "Rửa sạch ức gà, thấm khô và ướp với muối, tiêu, bột ớt, dầu oliu trong 30 phút.",
+      "Làm nóng lò nướng ở 200°C, nướng ức gà trong 20-25 phút cho đến khi chín vàng.",
+      "Luộc bún trong nước sôi 5 phút, sau đó xả nước lạnh.",
+      "Luộc rau cải ngọt trong nước sôi 3 phút, rồi xả nước giữ độ giòn.",
+      "Cắt đôi cà chua cherry, xếp bún, rau cải, cà chua và gà nướng lên đĩa."
+    ],
+    "nutritionFacts": "Calo: 500 calo \n Protein: 35g \n Chất béo: 15g \n Carbohydrate: 50g \n Chất xơ: 20g",
+    "tips": "Có thể thay thế ức gà bằng đùi gà để có vị ngọt hơn. \n Thay đổi các loại rau tùy sở thích cá nhân.",
+    "reasons": "Ức gà là nguồn protein chất lượng cao, giúp xây dựng cơ bắp và giữ cảm giác no lâu.\n Rau xanh bổ sung vitamin và khoáng chất, tốt cho sức khỏe tổng thể.",
+    "advice": "Ướp thịt gà trước khi nướng để hương vị đậm đà hơn.\n Kết hợp với các loại sốt chấm khác để tăng hương vị món ăn."
+  },
+
+  {
+    "id": 7,
+    "name": "Spaghetti bún gạo lứt ăn kèm cải bó xôi",
+    "images": "https://res.cloudinary.com/didmwsu4f/image/upload/v1731461733/T7_h1kmws.jpg",
+    "datePosted": "2024-10-05",
+    "estimatedTime": 5,
+    "description": "Sự kết hợp giữa bún gạo lứt và sốt cà chua cùng với cải bó xôi không chỉ mang đến một món ăn ngon miệng mà còn rất bổ dưỡng. Món ăn này phù hợp cho những ai muốn tìm kiếm sự mới mẻ trong bữa ăn hàng ngày mà vẫn đảm bảo chế độ dinh dưỡng cân đối.",
+    "ingredients": [
+      "Bún gạo lứt Ambro (hoặc bún chùm ngây, bún đậu biếc, bún gấc): 100g",
+      "Thịt bò hoặc heo bằm: 50g",
+      "Hành tây: 10g (thái nhỏ)",
+      "Cà chua: 20g (bằm nhỏ)",
+      "Cải bó xôi: 50g",
+      "Muối, tiêu: vừa đủ",
+      "Tương cà"
+    ],
+    "steps": [
+      "Luộc bún: Đun sôi nước, cho bún gạo lứt vào luộc khoảng 5-7 phút cho đến khi mềm, sau đó xả lại với nước lạnh để bún không bị dính.",
+      "Xào thịt: Trong một chảo, cho một chút dầu oliu vào đun nóng, sau đó thêm hành tây và xào cho thơm. Tiếp theo, cho thịt bằm vào xào chín, nêm muối và tiêu cho vừa ăn.",
+      "Thêm cà chua và cải bó xôi: Khi thịt đã chín, cho cà chua vào chảo, đảo đều đến khi cà chua mềm. Nêm thêm muối, hạt tiêu, và tương cà để hương vị thêm đậm đà và có màu sắc đẹp mắt.",
+      "Luộc cải bó xôi với dầu oliu khoảng 5 phút cho cải chín nhưng vẫn giữ được độ giòn và vẫn còn xanh.",
+      "Trộn mì: Cho bún đã luộc vào chảo với sốt cà chua, trộn đều để bún ngấm gia vị. Nếu cần, có thể thêm một chút nước để bún không bị khô.",
+      "Trình bày: Xếp bún ra đĩa và có thể trang trí thêm với tiêu xay hoặc hành lá nếu thích."
+    ],
+    "nutritionFacts": "Calo: khoảng 540 calo \n Protein: khoảng 25g \n Chất béo: khoảng 15g \n Carbohydrate: khoảng 75g \n Chất xơ: khoảng 8g",
+    "tips": [
+      "Chọn loại bún: Bạn có thể thử các loại bún và mì rau củ khác của Ambro.",
+      "Rau xanh: Bạn có thể thêm nhiều loại rau khác như cà rốt, đậu que để tăng thêm dinh dưỡng."
+    ],
+    "reasons": [
+      "Giàu chất xơ: Bún gạo lứt và rau cải đều là nguồn cung cấp chất xơ dồi dào, tốt cho tiêu hóa.",
+      "Cung cấp vitamin và khoáng chất: Rau củ cung cấp nhiều vitamin và khoáng chất cần thiết cho sức khỏe."
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Cơm tôm thịt rang và rau luộc",
+    "images": "https://res.cloudinary.com/didmwsu4f/image/upload/v1731461734/T8_gytukm.jpg",
+    "datePosted": "2024-9-25",
+    "estimatedTime": 8,
+    "description": "Cơm tôm thịt rang và rau luộc là món ăn ngon, dễ làm và cung cấp đầy đủ các dưỡng chất cần thiết cho cơ thể. Món ăn này không chỉ ngon mà còn rất tốt cho sức khỏe nhờ vào sự kết hợp của các nguyên liệu tươi ngon và đầy đủ chất dinh dưỡng cần thiết để cung cấp năng lượng cho một ngày.",
+    "ingredients": [
+      "Cơm lứt Ambro: 100g",
+      "Thịt nạc heo thái hạt lựu: 50g",
+      "Tôm nõn: 50g (lột vỏ)",
+      "Giá đỗ: 50g",
+      "Bắp cải tim: 50g (hoặc loại rau bạn thích)",
+      "Muối, tiêu: vừa đủ",
+      "Dầu ô liu: 1 thìa cà phê"
+    ],
+    "steps": [
+      "Nấu cơm: Nấu cơm lứt Ambro theo hướng dẫn trên bao bì. Bạn có thể thêm một chút muối vào nước nấu để tăng hương vị.",
+      "Rang thịt và tôm: Trong một chảo, cho dầu ô liu vào đun nóng. Thêm thịt heo vào xào cho đến khi chuyển màu và hơi cháy cạnh, sau đó cho tôm vào xào thêm 3-5 phút cho đến khi tôm cạnh. Nêm gia vị theo khẩu vị.",
+      "Chuẩn bị rau luộc: Đun sôi nước trong một nồi lớn, cho giá đỗ và bắp cải tim vào luộc khoảng 2-3 phút cho đến khi rau chín tới. Sau đó, vớt ra và xả lại với nước lạnh để giữ màu sắc và độ giòn.",
+      "Trình bày: Cho cơm lứt ra đĩa, thêm thịt và tôm rang lên trên, kèm theo rau luộc bên cạnh. Rắc thêm muối và tiêu nếu cần."
+    ],
+    "nutritionFacts": "Calo: khoảng 600 calo \n Protein: khoảng 35g \n Chất béo: khoảng 15g \n Carbohydrate: khoảng 80g \n Chất xơ: khoảng 6g",
+    "tips": "Thêm gia vị: Bạn có thể thêm nước mắm hoặc nước tương vào món ăn để tăng thêm hương vị.\n Rau củ: Có thể thay đổi loại rau theo sở thích cá nhân để món ăn thêm phong phú.",
+    "reasons": [
+      "Giàu protein: Thịt heo và tôm cung cấp protein chất lượng cao, cần thiết cho cơ thể.\n Cung cấp vitamin và khoáng chất: Rau luộc giúp bổ sung vitamin và khoáng chất cho bữa ăn.\n Món ăn quen thuộc, dễ nấu, không mất nhiều thời gian."
+    ]
+  },
+
+  {
+    "id": 9,
+    "name": "Bún Cá Ngừ Chả Cá",
+    "images": "https://res.cloudinary.com/didmwsu4f/image/upload/v1731461733/T9_vtp6os.webp",
+    "datePosted": "2024-9-15",
+    "estimatedTime": 10,
+    "description": "Bún cá ngừ chả cá là một món ăn kết hợp hoàn hảo giữa hương vị tươi ngon của cá ngừ, độ giòn của chả cá và sự thanh mát của rau sống. Món ăn không chỉ ngon miệng mà còn cung cấp nhiều dinh dưỡng, đặc biệt là omega-3 từ cá, giúp tăng cường sức khỏe tim mạch và cải thiện trí nhớ. Với bún gạo lứt, món ăn trở nên giàu chất xơ và năng lượng, phù hợp cho những ai yêu thích ẩm thực lành mạnh.",
+    "ingredients": [
+      "Cá ngừ: 50g (tươi hoặc đóng hộp)",
+      "Chả cá: 30g (chiên hoặc hấp)",
+      "Bún gạo lứt Ambro (hoặc bún chùm ngây, bún đậu biếc, bún gấc): 100g",
+      "Cà chua: 20g (thái lát)",
+      "Rau thơm: 30g (bạc hà, húng quế hoặc loại rau bạn thích)",
+      "Rau sống: tùy thích (rau diếp, xà lách, giá đỗ...)",
+      "Nước mắm tỏi ớt: vừa đủ"
+    ],
+    "steps": [
+      "Luộc bún: Đun sôi nước, cho bún gạo lứt vào luộc khoảng 5-7 phút cho đến khi mềm. Sau đó, xả bún với nước lạnh để giữ độ dai.",
+      "Chuẩn bị cá: Nếu sử dụng cá ngừ tươi, rửa sạch và xé nhỏ cá. Nếu dùng cá ngừ đóng hộp, chỉ cần để ráo nước.",
+      "Chế biến chả cá: Chiên hoặc hấp chả cá cho đến khi chín vàng và thơm.",
+      "Trình bày: Xếp bún ra đĩa, thêm cá ngừ, chả cá, cà chua và rau sống lên trên. Rắc rau thơm và có thể thêm nước mắm tỏi ớt để tăng hương vị."
+    ],
+    "nutritionFacts": "Calo: 560 calo \n Protein: 30g \n Chất béo: 15g \n Carbohydrate: 75g \n Chất xơ: 5g",
+    "tips": "Cá ngừ có thể thay thế bằng các loại cá khác như cá thu hoặc cá hồi để thay đổi hương vị.",
+    "reasons": "Giàu omega-3: Cá ngừ và chả cá cung cấp axit béo omega-3, tốt cho sức khỏe tim mạch.",
+    "advice": "Nên điều chỉnh lượng nước mắm tỏi ớt để phù hợp với khẩu vị cá nhân.\n  Có thể thay đổi sang các loại bún và mì khác của Ambro để tăng thêm trải nghiệm hương vị."
+  },
+  {
+    "id": 10,
+    "name": "Mì chùm ngây măng gà",
+    "images": "https://res.cloudinary.com/didmwsu4f/image/upload/v1731461733/T10_i9bje0.jpg",
+    "datePosted": "2024-9-05",
+    "estimatedTime": 5,
+    "description": "Mì chùm ngây măng gà là món ăn lý tưởng cho những ai yêu thích ẩm thực lành mạnh mà vẫn muốn thưởng thức hương vị thơm ngon. Sự kết hợp giữa mì chùm ngây giàu dinh dưỡng, ức gà thơm mềm và măng tươi giòn giòn sẽ tạo nên một bữa ăn bổ dưỡng và thú vị. Món ăn không chỉ giúp cung cấp năng lượng mà còn mang lại nhiều vitamin và khoáng chất cho cơ thể.",
+    "ingredients": [
+      "Mì chùm ngây Ambro: 150g",
+      "Ức gà: 100g (cắt thành miếng vừa ăn)",
+      "Măng tươi: 50g (thái mỏng)",
+      "Nấm hương: 30g (ngâm và thái lát)",
+      "Dầu ô liu: 1 muỗng cà phê",
+      "Rau sống: tùy chọn (rau diếp, xà lách...)",
+      "Muối, tiêu: vừa đủ",
+      "Xương gà: 100g"
+    ],
+    "steps": [
+      "Luộc mì: Đun sôi nước, cho mì chùm ngây vào luộc khoảng 3-5 phút cho đến khi mềm. Sau đó, xả mì với nước lạnh để giữ độ dai.",
+      "Nước dùng: Xương gà sau khi rửa sạch và trụng sơ, ninh trong 30p hoặc hơn để lấy nước dùng.",
+      "Xào nguyên liệu: Trong chảo, cho 1 muỗng cà phê dầu ô liu vào, đun nóng. Thêm ức gà vào xào cho đến khi thịt chín vàng. Tiếp theo, cho măng tươi và nấm hương vào xào chung khoảng 3-4 phút.",
+      "Bỏ nguyên liệu đã xào vào nồi nước dùng, nấu thêm 5 phút nữa.",
+      "Trình bày: Xếp mì ra tô, thêm rau sống tùy chọn lên trên để trang trí và tăng hương vị, chan nước dùng và thưởng thức."
+    ],
+    "nutritionFacts": "Calo: 670 calo \n Protein: 45g \n Chất béo: 10g \n Carbohydrate: 85g \n Chất xơ: 7g",
+    "tips": "Có thể thay thế ức gà bằng thịt gà phi lê hoặc thịt đùi để tăng hương vị.",
+    "reasons": "Giàu protein: Ức gà cung cấp protein chất lượng cao, giúp xây dựng và phục hồi cơ bắp.",
+    "advice": "Nên chọn mì chùm ngây hoặc các loại mì khác của Ambro để đảng bảo hương vị và dinh dưỡng trọn vẹn."
+  },
+  {
+    "id": 11,
+    "name": "Cá hồi nướng măng tây",
+    "images": "https://res.cloudinary.com/didmwsu4f/image/upload/v1731461735/T11_mlcy7i.jpg",
+    "datePosted": "2024-8-25",
+    "estimatedTime": 8,
+    "description": "Cá hồi nướng măng tây là món ăn bổ dưỡng, thơm ngon, mang lại nhiều lợi ích cho sức khỏe. Sự kết hợp giữa vị béo ngậy của cá hồi và độ giòn tươi mát của măng tây tạo nên một trải nghiệm ẩm thực tuyệt vời. Món ăn này rất phù hợp cho những ai muốn có một bữa ăn đầy đủ dinh dưỡng nhưng vẫn giữ được sự thanh mát.",
+    "ingredients": [
+      "Cá hồi: 300g",
+      "Măng tây: 4-6 cây (loại bỏ phần vỏ xơ)",
+      "Muối: vừa đủ",
+      "Hạt tiêu đen: vừa đủ",
+      "Dầu ô liu: 1 muỗng canh",
+      "Chanh: 1 quả nhỏ (cắt lát)"
+    ],
+    "steps": [
+      "Chuẩn bị nguyên liệu: Làm nóng lò nướng ở nhiệt độ 200°C. Rửa sạch cá hồi và măng tây, sau đó thấm khô bằng khăn giấy.",
+      "Ướp cá: Đặt cá hồi lên khay nướng, rưới dầu ô liu lên trên, sau đó rắc muối và tiêu đen. Đặt các lát chanh lên trên cá.",
+      "Nướng măng tây: Đặt măng tây bên cạnh cá trên khay nướng. Rưới thêm chút dầu ô liu lên măng tây và rắc muối, tiêu.",
+      "Nướng cá và măng tây: Cho khay nướng vào lò, nướng khoảng 12-15 phút hoặc cho đến khi cá chín và măng tây mềm nhưng vẫn giòn.",
+      "Trình bày: Xếp cá hồi và măng tây ra đĩa. Có thể trang trí thêm bằng vài lát chanh tươi."
+    ],
+    "nutritionFacts": "Calo: 415 calo \n Protein: 45g \n Chất béo: 10g \n Carbohydrate: 85g \n Chất xơ: 7g",
+    "tips": "Bạn có thể chọn phần bụng hoặc lưng cá hồi để có thịt mềm hơn.",
+    "reasons": "Giàu omega-3: Cá hồi là nguồn cung cấp axit béo omega-3, giúp bảo vệ sức khỏe"
+  },
+  {
+    "id": 12,
+    "name": "Kimbap gạo lứt",
+    "images": "https://res.cloudinary.com/didmwsu4f/image/upload/v1731461734/T12_f52g01.jpg",
+    "datePosted": "2024-8-20",
+    "estimatedTime": 9,
+    "description": "Kimbap gạo lứt là phiên bản lành mạnh của món cơm cuộn truyền thống, sử dụng gạo lứt để tăng cường chất xơ và các dưỡng chất. Sự kết hợp giữa ức gà, các loại rau củ và trứng gà tạo nên một bữa ăn cân bằng, bổ dưỡng, cung cấp năng lượng cần thiết cho ngày dài.",
+    "ingredients": [
+      "Gạo lứt Ambro: 100g (nấu chín)",
+      "Ức gà: 50g (luộc và xé sợi)",
+      "Cà rốt: 20g (thái sợi)",
+      "Dưa leo: 20g (thái sợi)",
+      "Cải bó xôi: 20g (luộc sơ)",
+      "Trứng gà: 1 quả (chiên mỏng và thái sợi)",
+      "Mè rang: 5g",
+      "Rong biển: 2 lá",
+      "Muối, tiêu: vừa đủ"
+    ],
+    "steps": [
+      "Chuẩn bị nguyên liệu: Nấu gạo lứt chín, để nguội. Luộc ức gà, xé sợi. Luộc sơ cải bó xôi và để ráo. Chiên trứng gà mỏng, sau đó thái sợi.",
+      "Cuộn kimbap: Trải một lá rong biển lên mành tre. Dàn đều một lớp gạo lứt mỏng lên rong biển, để chừa một khoảng trống nhỏ ở mép trên để dễ cuộn. Xếp ức gà, cà rốt, dưa leo, cải bó xôi và trứng lên trên lớp gạo lứt.",
+      "Từ từ cuộn chặt kimbap, sau đó thoa nhẹ một chút nước lên mép lá rong biển để dính chặt.",
+      "Cắt kimbap: Dùng dao sắc để cắt kimbap thành từng khoanh vừa ăn, rắc thêm mè rang lên trên nếu thích."
+    ],
+    "nutritionFacts": "Calo: 600calo\nProtein: 30g\nChất béo: 12g\nCarbohydrate: 85g\nChất xơ: 6g",
+    "tips": "Gạo lứt: Nên ngâm gạo trước khi nấu để gạo chín mềm hơn.\nRau củ: Có thể thay thế cà rốt hoặc dưa leo bằng các loại rau củ khác tùy sở thích.\nCó thể thay ức gà bằng các loại thịt khác để món ăn đa dạng hơn.",
+    "reasons": "Giàu chất xơ: Gạo lứt giúp tăng cường hệ tiêu hóa và giữ cảm giác no lâu.\nĐầy đủ dinh dưỡng: Món ăn cung cấp đầy đủ protein, chất béo và carbohydrate lành mạnh từ các nguyên liệu.",
+    "advice": "Bạn có thể sử dụng các loại gạo lứt khác của nhà Ambro để vừa có hương vị thơm ngon và đảm bảo chất dinh dưỡng.\nCó thể dùng thêm nước chấm 1 lượng vừa phải như nước tương, tương ớt, tương cà, mayonnaise để tăng hương vị.\nCó thể thêm một chút giấm gạo vào gạo lứt để tạo độ dẻo khi cuộn."
+  },
+  {
+    "id": 13,
+    "name": "Súp bò và đậu lăng",
+    "images": "https://res.cloudinary.com/didmwsu4f/image/upload/v1731461735/T13_vsvvib.jpg",
+    "datePosted": "2024-7-25",
+    "estimatedTime": 7,
+    "description": "Súp bò và đậu lăng là món ăn ấm áp và bổ dưỡng, kết hợp vị ngọt tự nhiên của rau củ với thịt bò thơm ngon. Đậu lăng cung cấp nguồn protein và chất xơ dồi dào, rất tốt cho hệ tiêu hóa và sức khỏe tim mạch. Món súp này thích hợp cho những bữa ăn nhẹ nhàng mà vẫn đủ chất.",
+    "ingredients": [
+      "Thịt bò xay: 200g",
+      "Đậu lăng: 100g (ngâm nước khoảng 30 phút)",
+      "Rau củ: 150g (cà rốt, hành tây, cần tây, thái nhỏ)",
+      "Nước dùng: 500ml (nước dùng gà hoặc bò tùy thích)",
+      "Dầu ô liu: 1 muỗng canh",
+      "Muối, tiêu: vừa đủ",
+      "Các loại gia vị tùy chọn: Lá nguyệt quế, tỏi băm, rau mùi tây thái nhỏ"
+    ],
+    "steps": [
+      "Xào thịt bò và rau củ: Đun nóng dầu ô liu trong nồi, cho thịt bò xay vào xào đến khi săn lại. Thêm cà rốt, hành tây, và cần tây vào, xào cùng đến khi rau củ hơi mềm.",
+      "Nấu súp: Cho đậu lăng đã ngâm và nước dùng vào nồi. Thêm muối, tiêu và lá nguyệt quế (nếu có) để tăng thêm hương vị. Đun sôi, sau đó hạ lửa và nấu khoảng 30-40 phút, cho đến khi đậu lăng và thịt bò chín mềm.",
+      "Hoàn thành: Nêm nếm lại gia vị cho vừa ăn. Nếu muốn, bạn có thể cho thêm rau mùi tây thái nhỏ lên trên để trang trí."
+    ],
+    "nutritionFacts": "Calo: 720 calo\nProtein: 50g\nChất béo: 25g\nCarbohydrate: 65g\nChất xơ: 20g",
+    "tips": "Đậu lăng: Ngâm đậu lăng trước khi nấu sẽ giúp đậu mềm nhanh và giữ được nhiều dinh dưỡng hơn.\nNước dùng: Có thể sử dụng nước dùng rau củ để món súp nhẹ hơn mà vẫn đậm đà.",
+    "reasons": "Giàu protein và chất xơ: Thịt bò và đậu lăng cung cấp lượng lớn protein và chất xơ, giúp no lâu và tốt cho cơ bắp, hệ tiêu hóa.\nNhiều vitamin và khoáng chất: Rau củ cung cấp nhiều vitamin A, C và các khoáng chất cần thiết, hỗ trợ tăng cường hệ miễn dịch.",
+    "advice": "Bạn có thể nấu một lượng lớn rồi bảo quản trong tủ lạnh để dùng dần, khi hâm nóng vẫn giữ được hương vị ngon lành.\nĂn kèm bánh mì nguyên cám Ambro hoặc các loại gạo, bún, mì của nhà Ambro rất hợp."
+  },
+
+  {
+    "id": 14,
+    "name": "Mì Ý với sốt pesto và gà nướng",
+    "images": "https://res.cloudinary.com/didmwsu4f/image/upload/v1731461736/T14_fw2fjg.jpg",
+    "datePosted": "2024-7-15",
+    "estimatedTime": 8,
+    "description": "Mì Ý với sốt pesto và gà nướng là món ăn cân bằng giữa hương vị tươi mát của pesto và độ đậm đà từ gà nướng. Món này rất giàu protein và chất béo lành mạnh, thích hợp cho bữa ăn chính cung cấp năng lượng và dinh dưỡng.",
+    "ingredients": [
+      "Mì Ý: 1 chén (100g, chưa nấu)",
+      "Gà nướng: 150g (thịt ức gà hoặc thịt gà đùi nướng vừa chín, cắt miếng)",
+      "Sốt pesto: 2 muỗng canh (khoảng 30g)",
+      "Hạt thông: 1 muỗng canh (khoảng 10g, rang sơ)",
+      "Muối và tiêu: vừa đủ",
+      "Gia vị tùy chọn: Phô mai Parmesan bào mỏng, rau thơm như húng quế tươi"
+    ],
+    "steps": [
+      "Chuẩn bị mì: Đun sôi nước với một ít muối, cho mì Ý vào và luộc đến khi mềm (khoảng 8-10 phút, theo hướng dẫn trên bao bì). Sau đó, vớt mì ra, để ráo nước.",
+      "Chuẩn bị sốt: Cho lần lượt 60gr lá húng tây, 30gr hạt thông bóc vỏ, 5gr tỏi, 30gr bột phô mai Parmesan và 2 viên nước đá vào máy xay sinh tố. Tiến hành xay nát hỗn hợp trên khoảng 2 phút, sau đó thêm vào 1 muỗng cà phê tiêu, 1/2 muỗng cà phê muối, tiếp tục xay thêm 2 phút nữa, đến khi thu được hỗn hợp sốt nhuyễn và mịn là được.",
+      "Trong một chảo lớn, trộn mì đã luộc với sốt pesto. Đảo nhẹ để mì thấm đều sốt, có thể thêm một chút nước luộc mì để sốt sệt hơn nếu cần.",
+      "Kết hợp: Cho gà nướng vào chảo cùng mì, trộn đều. Rắc hạt thông lên trên và nêm nếm với muối, tiêu cho vừa ăn.",
+      "Trình bày: Cho mì ra đĩa, trang trí với một ít phô mai Parmesan bào mỏng và húng quế tươi nếu thích."
+    ],
+    "nutritionFacts": "Calo: 720 calo \n Protein: 45g \n Chất béo: 40g \n Carbohydrate: 50g \n Chất xơ: 15g",
+    "tips": "Sốt pesto: Bạn có thể tự làm sốt pesto tại nhà bằng cách xay nhuyễn húng quế, hạt thông, phô mai Parmesan, dầu ô liu và tỏi.\n Gà: Có thể dùng gà quay hoặc gà áp chảo thay cho gà nướng.",
+    "reasons": "Giàu protein và chất béo tốt: Gà và hạt thông cung cấp protein và chất béo lành mạnh, tốt cho cơ bắp và tim mạch.\n Thơm ngon và dễ làm: Sốt pesto tạo hương vị đặc trưng cho món ăn, giúp kích thích vị giác mà không cần nhiều gia vị.",
+    "advice": [
+      "Có thể dùng các loại mì của nhà Ambro để thay thế cho mì Ý với độ ngon và độ dai tương tự nhưng dễ dàng kiểm soát lượng calo nạp vào cơ thể hơn."
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Mì soba với tôm và rau xanh",
+    "images": "https://res.cloudinary.com/didmwsu4f/image/upload/v1731461737/T15_goopyo.jpg",
+    "datePosted": "2024-7-14",
+    "estimatedTime": 5,
+    "description": "Mì soba với tôm và rau xanh là món ăn nhẹ nhàng, thanh mát và giàu dinh dưỡng. Kết hợp giữa sợi mì soba dai ngon, tôm tươi ngọt, và rau củ giòn mát, món ăn này mang đến cảm giác tươi mới và dễ tiêu hóa, rất phù hợp cho các bữa ăn cân bằng và lành mạnh.",
+    "ingredients": [
+      "Mì soba: 100g chưa nấu",
+      "Tôm tươi: 220g (bóc vỏ, bỏ đầu)",
+      "Rau cải và ớt chuông: 1 chén (rau cải xanh và ớt chuông đỏ hoặc vàng, thái nhỏ)",
+      "Nước tương: 1 muỗng canh",
+      "Dầu mè: 1 muỗng canh",
+      "Hạnh nhân: 30g (rang sơ và thái lát mỏng)",
+      "Gia vị: muối, tiêu đen xay"
+    ],
+    "steps": [
+      "Luộc mì soba: Đun sôi nước và cho mì soba vào luộc theo hướng dẫn trên bao bì, khoảng 5-6 phút. Sau đó vớt mì ra và xả qua nước lạnh để giữ độ dai, để ráo nước.",
+      "Xào tôm và rau: Làm nóng dầu mè trong chảo, cho tôm vào xào đến khi chuyển sang màu hồng (khoảng 3-4 phút). Thêm rau cải và ớt chuông vào xào nhanh với tôm, thêm nước tương, muối và tiêu, đảo đều khoảng 2-3 phút đến khi rau chín tới.",
+      "Kết hợp các nguyên liệu: Cho mì soba vào chảo cùng tôm và rau, đảo nhẹ để các nguyên liệu thấm đều gia vị.",
+      "Trình bày: Cho mì ra đĩa, rắc hạnh nhân lên trên để tăng thêm hương vị và độ giòn."
+    ],
+    "nutritionFacts": "Calo: 650 calo \n Protein: 40g \n Chất béo: 20g \n Carbohydrate: 75g \n Chất xơ: 8g",
+    "tips": "Mì soba: Có thể dùng các loại mì khác như mì lúa mạch hoặc mì gạo lứt nếu muốn thay đổi hương vị.\n Dầu mè: Sử dụng dầu mè nguyên chất để tăng hương thơm và bổ sung chất béo lành mạnh.\n Hạnh nhân: Thay thế bằng các loại hạt khác như hạt điều hoặc đậu phộng để tăng cường dưỡng chất.",
+    "reasons": "Giàu protein: Tôm cung cấp protein chất lượng cao, hỗ trợ xây dựng và phục hồi cơ bắp.\n Nguồn chất xơ và chất béo tốt: Rau cải, ớt chuông và hạnh nhân bổ sung chất xơ và chất béo không bão hòa, giúp no lâu và tốt cho hệ tiêu hóa.\n Thơm ngon và dễ chế biến: Sự kết hợp giữa nước tương và dầu mè tạo nên hương vị đậm đà, thơm ngon mà không cần nhiều gia vị.",
+    "advice": "Có thể dùng thêm chanh hoặc chanh leo để tạo thêm vị chua nhẹ, giúp món ăn càng thêm thanh mát.\n Nếu không có sẵn mì soba, có thể thay thế bằng các loại mì khác của Ambro."
+  },
+
+  {
+    "id": 16,
+    "name": "Gà sốt chanh và hạt nhân",
+    "images": "https://res.cloudinary.com/didmwsu4f/image/upload/v1731461738/T16_nztj5d.jpg",
+    "datePosted": "2024-7-05",
+    "estimatedTime": 6,
+    "description": "Gà sốt chanh và hạt hạnh nhân là món ăn giàu dinh dưỡng, sự kết hợp giữa vị chua nhẹ của chanh, vị ngọt thanh của mật ong, và hương béo bùi của hạt hạnh nhân tạo nên một món ăn độc đáo và hấp dẫn. Đây là lựa chọn tuyệt vời cho những ai yêu thích hương vị tươi mát và cần bổ sung protein.",
+    "ingredients": [
+      "Ức gà: 300g (làm sạch, cắt thành miếng vừa ăn)",
+      "Hạt hạnh nhân: 30g (rang sơ, có thể thái nhỏ hoặc để nguyên tùy thích)",
+      "Sốt chanh: 50ml (gồm nước cốt chanh, 1 muỗng canh mật ong, 1 muỗng canh dầu ô liu)",
+      "Muối và tiêu: vừa đủ"
+    ],
+    "steps": [
+      "Chuẩn bị sốt chanh: Trong một bát nhỏ, trộn đều nước cốt chanh, mật ong và dầu ô liu. Nêm thêm muối và tiêu để tạo vị hài hòa cho sốt.",
+      "Xào gà: Đun nóng một ít dầu ô liu trong chảo, cho ức gà vào xào đến khi gà chín vàng đều và bên trong không còn hồng (khoảng 8-10 phút). Bạn có thể thêm chút muối và tiêu cho đậm đà.",
+      "Thêm sốt và hạnh nhân: Khi gà đã chín, đổ sốt chanh vào chảo và đảo nhẹ để gà thấm sốt. Rắc hạnh nhân lên trên và đảo thêm 1-2 phút cho hạnh nhân chín giòn và ngấm vào thịt gà.",
+      "Trình bày: Bày gà ra đĩa và rưới phần sốt còn lại lên trên nếu muốn. Bạn có thể trang trí thêm lát chanh tươi và húng quế để tăng hương vị."
+    ],
+    "nutritionFacts": "Calo: 680 calo \n Protein: 45g \n Chất béo: 35g \n Carbohydrate: 15g \n Chất xơ: 3g",
+    "tips": "Sốt chanh: Điều chỉnh lượng mật ong tùy theo khẩu vị để tăng độ ngọt hoặc chua. \n Hạt hạnh nhân: Có thể thay bằng hạt điều, hạt óc chó để tạo hương vị mới lạ và bổ sung dinh dưỡng.\n Ức gà: Có thể thay bằng gà đùi để tăng độ ngậy, nhưng nên giảm lượng dầu để giữ mức calo.",
+    "reasons": "Giàu protein: Ức gà cung cấp nguồn protein dồi dào giúp xây dựng và phục hồi cơ bắp.\n Chất béo tốt: Hạt hạnh nhân và dầu ô liu bổ sung chất béo không bão hòa, tốt cho tim mạch và hệ thần kinh. \n Vị thanh mát: Sốt chanh mật ong không chỉ tạo hương vị thơm ngon mà còn giúp cân bằng lượng chất béo trong món ăn.",
+    "advice": "Có thể thêm một ít rau xanh như xà lách hoặc cải bó xôi để làm món ăn thêm phần hấp dẫn và cân bằng hơn."
+  },
+  {
+    "id": 17,
+    "name": "Cá hồi hấp đậu lăng và arugula",
+    "images": "https://res.cloudinary.com/didmwsu4f/image/upload/v1731461738/T17_ry8zv0.jpg",
+    "datePosted": "2024-6-25",
+    "estimatedTime": 7,
+    "description": "Món cá hồi hấp đậu lăng và arugula là sự kết hợp của cá hồi giàu omega-3, đậu lăng giàu chất xơ và protein, cùng rau arugula tươi mát. Món ăn này mang đến hương vị nhẹ nhàng, bổ dưỡng và phù hợp cho một bữa ăn lành mạnh, giúp duy trì sức khỏe tim mạch và hỗ trợ hệ tiêu hóa.",
+    "ingredients": [
+      "Cá hồi: 150g (cắt miếng vừa ăn)",
+      "Đậu lăng: 100g (ngâm nước trước khi nấu khoảng 30 phút để mềm)",
+      "Rau arugula: 60g",
+      "Hạt hạnh nhân: 35g (rang sơ, thái lát)",
+      "Dầu ô liu: 15ml",
+      "Bơ: ¼ quả (cắt lát)",
+      "Nước cốt chanh: 15ml",
+      "Tỏi băm: 5g",
+      "Gia vị: Muối, tiêu, gia vị khô (như húng quế, oregano, hoặc thảo mộc yêu thích)"
+    ],
+    "steps": [
+      "Chuẩn bị cá hồi: Ướp cá hồi với chút muối, tiêu và tỏi băm. Để khoảng 10 phút cho thấm gia vị.",
+      "Nấu đậu lăng: Cho đậu lăng vào nồi, thêm nước và một ít muối. Đun nhỏ lửa trong khoảng 15-20 phút đến khi đậu mềm. Sau đó, để ráo nước.",
+      "Hấp cá hồi: Đặt cá hồi vào xửng hấp, hấp khoảng 10-12 phút hoặc đến khi cá chín tới (thịt cá chuyển màu hồng nhạt và mềm).",
+      "Chuẩn bị hỗn hợp dầu chanh: Trong một bát nhỏ, trộn đều dầu ô liu, nước cốt chanh và một chút muối tiêu.",
+      "Trình bày: Bày rau arugula lên đĩa, rải đậu lăng đã nấu chín lên trên. Đặt cá hồi hấp và bơ cắt lát lên cùng. Rưới hỗn hợp dầu chanh lên và rắc hạt hạnh nhân để món ăn thêm phần hấp dẫn."
+    ],
+    "nutritionFacts": "Calo: 720 calo \n Protein: 45g \n Chất béo: 40g \n Carbohydrate: 50g \n Chất xơ: 15g",
+    "tips": [
+      "Hạnh nhân: Có thể thay thế bằng hạt óc chó hoặc hạt điều để làm phong phú hương vị.",
+      "Rau arugula: Có thể kết hợp thêm rau bina hoặc xà lách nếu muốn tăng độ giòn và hương vị tươi mát.",
+      "Sốt dầu chanh: Điều chỉnh lượng nước cốt chanh tùy khẩu vị, thêm một ít mật ong nếu muốn sốt ngọt nhẹ."
+    ],
+    "reasons": "Giàu omega-3: Cá hồi giúp bảo vệ tim mạch, hỗ trợ sức khỏe não bộ.\n Nguồn protein và chất xơ tốt: Đậu lăng cung cấp protein thực vật, kết hợp với hạt hạnh nhân bổ sung chất xơ và chất béo lành mạnh.\n Hương vị thanh mát: Rau arugula và nước cốt chanh tạo nên sự tươi mát và dễ tiêu hóa cho bữa ăn.",
+    "advice": "Nên chọn cá hồi tươi và đậu lăng sạch để đảm bảo chất lượng món ăn.\n Có thể thêm một chút gia vị thảo mộc khô như húng quế, oregano để tăng hương thơm tự nhiên.\n Nên sử dụng hạnh nhân và các loại hạt đến từ Ambro để đảm bảo được hương vị và chất lượng món ăn."
+  },
+  {
+    "id": 18,
+    "name": "Bò hầm rau củ",
+    "images": "https://res.cloudinary.com/didmwsu4f/image/upload/v1731461739/T18_xrxt18.jpg",
+    "datePosted": "2024-6-20",
+    "estimatedTime": 8,
+    "description": "Món bò hầm rau củ với hương vị thanh đạm từ thịt bò và rau củ, hòa quyện cùng gia vị thảo mộc, là lựa chọn tuyệt vời cho bữa ăn lành mạnh và ấm áp. Hương vị tự nhiên từ cỏ xạ hương và lá nguyệt quế làm tăng thêm sự hấp dẫn, bổ sung dinh dưỡng mà vẫn dễ tiêu hóa.",
+    "ingredients": [
+      "Thịt bò ba chỉ: 100g (cắt miếng vừa ăn)",
+      "Nấm: 100g (cắt làm tư)",
+      "Củ cần tây: 150g (gọt vỏ, cắt thanh dài 7cm)",
+      "Hành tây: 100g (bóc vỏ, cắt miếng vừa)",
+      "Cần tây: 2-3 nhánh (cắt lát)",
+      "Cà rốt: 100g (cắt khoanh tròn)",
+      "Nước dùng bò: 300ml",
+      "Lá nguyệt quế: 1 lá lớn",
+      "Cỏ xạ hương khô: ½ muỗng cà phê",
+      "Gia vị: Muối, tiêu"
+    ],
+    "steps": [
+      "Chuẩn bị thịt bò: Ướp thịt bò với chút muối và tiêu, để trong khoảng 10 phút cho ngấm gia vị.",
+      "Xào sơ thịt bò: Đun nóng chảo với một ít dầu (nếu muốn), cho thịt bò vào xào cho đến khi hơi săn lại.",
+      "Nấu bò hầm: Đổ nước dùng bò vào nồi lớn, cho thịt bò đã xào, lá nguyệt quế và cỏ xạ hương vào. Đun lửa lớn cho đến khi nước sôi, sau đó giảm lửa nhỏ và hầm trong khoảng 30 phút.",
+      "Thêm rau củ: Cho nấm, cần tây, hành tây và cà rốt vào nồi. Hầm thêm 20-30 phút đến khi rau củ và thịt bò chín mềm, gia vị ngấm đều.",
+      "Nêm nếm: Thêm muối và tiêu cho vừa ăn, khuấy đều. Tắt bếp và gắp bỏ lá nguyệt quế.",
+      "Trình bày: Múc ra tô và thưởng thức khi còn nóng."
+    ],
+    "nutritionFacts": "Calo: 341 calo \n Protein: 20g \n Chất béo: 15g \n Carbohydrate: 25g \n Chất xơ: 15g",
+    "tips": "Thịt bò: Bạn có thể thay thế thịt bò ba chỉ bằng thịt nạc nếu muốn giảm lượng chất béo. \n Gia vị: Thêm chút tỏi hoặc hành phi để tăng hương vị đậm đà. \n Rau củ: Có thể bổ sung thêm khoai tây hoặc bông cải xanh nếu thích.",
+    "reasons": "Giàu chất đạm: Thịt bò là nguồn cung cấp protein tốt cho cơ thể.\n Bổ sung chất xơ: Các loại rau củ trong món ăn giúp cung cấp chất xơ, vitamin và khoáng chất thiết yếu.\n Dễ tiêu hóa và ít calo: Món ăn thích hợp cho bữa tối hoặc bữa ăn nhẹ nhàng mà vẫn đảm bảo năng lượng.",
+    "advice": "Nên ăn món bò hầm khi còn nóng để tận hưởng trọn vẹn hương vị và giúp cơ thể ấm áp hơn.\n Nên ăn kèm bánh mì nguyên cám Ambro để bổ sung năng lượng và no lâu hơn."
+  },
+  {
+    "id": 19,
+    "name": "Pancake chuối yến mạch",
+    "images": "https://res.cloudinary.com/didmwsu4f/image/upload/v1731461740/T19_mmd24f.jpg",
+    "datePosted": "2024-6-15",
+    "estimatedTime": 10,
+    "description": "Pancake chuối yến mạch là món ăn sáng bổ dưỡng với vị ngọt tự nhiên từ chuối và hương thơm từ bột quế hoặc vani. Món ăn này cung cấp năng lượng dồi dào và các chất xơ cần thiết, thích hợp cho mọi chế độ ăn.",
+    "ingredients": [
+      "Chuối: 1 quả chuối chín (nghiền) + 1 quả chuối chín (cắt lát)",
+      "Yến mạch Ambro: 60g",
+      "Trứng: 1 quả",
+      "Bột quế hoặc vani: ½ thìa cà phê (tùy chọn)",
+      "Mật ong: 1 muỗng cà phê (phết lên pancake sau khi nấu)"
+    ],
+    "steps": [
+      "Chuẩn bị hỗn hợp bột pancake: Trong một tô lớn, trộn chuối nghiền, yến mạch, trứng và bột quế hoặc vani (nếu dùng) cho đến khi hỗn hợp mịn và đồng nhất.",
+      "Áp chảo pancake: Đun nóng chảo chống dính trên lửa vừa, có thể phết một lớp dầu mỏng nếu cần. Múc một lượng hỗn hợp vào chảo, dàn đều tạo hình pancake. Nấu khoảng 2-3 phút mỗi mặt cho đến khi bánh vàng đều.",
+      "Trang trí và hoàn thiện: Đặt pancake ra đĩa, phết mật ong lên trên và trang trí thêm các lát chuối cắt sẵn."
+    ],
+    "nutritionFacts": "Calo: 680 calo \n Protein: 40g \n Chất béo: 20g \n Carbohydrate: 80g \n Chất xơ: 5g",
+    "tips": "Làm ngọt tự nhiên: Nếu thích ngọt hơn, bạn có thể thêm một ít nho khô hoặc các loại quả khô vào hỗn hợp. \n Kết cấu: Để pancake mềm và xốp hơn, bạn có thể dùng máy xay để xay nhuyễn hỗn hợp trước khi chiên.\n Phục vụ: Thêm một ít hạt chia hoặc hạt hạnh nhân rang lên trên để tăng hương vị và độ giòn.",
+    "reasons": "Giàu chất xơ: Yến mạch giúp bổ sung chất xơ, tốt cho hệ tiêu hóa.\n Nguồn năng lượng tự nhiên: Chuối cung cấp carbohydrate tự nhiên, giúp no lâu và cung cấp năng lượng bền vững.\n Đơn giản và nhanh chóng: Phù hợp cho những ngày bận rộn mà vẫn muốn có một bữa sáng đầy đủ dinh dưỡng.",
+    "advice": "Nên xay nhuyễn yến mạch để kết cấu bánh được mịn màng, mềm mại và bông xốp hơn"
+  },
+  {
+    "id": 20,
+    "name": "Mì bò xào",
+    "images": "https://res.cloudinary.com/didmwsu4f/image/upload/v1731461742/T20_doknmf.webp",
+    "datePosted": "2024-5-05",
+    "estimatedTime": 6,
+    "description": "Mì bò xào là món ăn ngon miệng, dễ làm và giàu dinh dưỡng. Với sự kết hợp giữa mì dai dai, thịt bò mềm và rau củ tươi ngon, món ăn này không chỉ cung cấp năng lượng mà còn mang đến hương vị hấp dẫn.",
+    "ingredients": [
+      "Mì trứng hoặc mì Ambro: 150g",
+      "Thịt bò (thịt nạc, như ức bò): 150g",
+      "Cà rốt: 40g (thái sợi)",
+      "Hành tây: 40g (thái mỏng)",
+      "Rau sống ăn kèm: 30g (như xà lách, rau thơm)",
+      "Dầu ô liu: 1 muỗng canh",
+      "Nước tương: 2 muỗng cà phê",
+      "Tỏi băm: 1 muỗng cà phê",
+      "Muối, tiêu: theo khẩu vị"
+    ],
+    "steps": [
+      "Chuẩn bị nguyên liệu: Luộc mì trong nước sôi theo hướng dẫn trên bao bì cho đến khi chín, sau đó xả qua nước lạnh và để ráo.",
+      "Xào thịt: Đun nóng dầu ô liu trong chảo lớn trên lửa vừa. Cho tỏi băm vào phi thơm, sau đó thêm thịt bò đã thái mỏng vào xào cho đến khi thịt chín tới.",
+      "Thêm rau củ: Thêm cà rốt và hành tây vào chảo, xào đều khoảng 2-3 phút cho đến khi rau mềm nhưng vẫn giữ được độ giòn.",
+      "Kết hợp mì: Thêm mì đã luộc vào chảo, rưới nước tương và nêm muối, tiêu theo khẩu vị. Xào đều cho mì thấm gia vị khoảng 2 phút nữa.",
+      "Trình bày: Tắt bếp và cho mì bò xào ra đĩa. Dùng rau sống ăn kèm để tăng thêm hương vị và độ tươi mát."
+    ],
+    "nutritionFacts": "Calo: 680 calo \n Protein: 40g \n Chất béo: 20g \n Carbohydrate: 80g \n Chất xơ: 5g",
+    "tips": "Thịt bò: Nên chọn thịt bò tươi, thái mỏng để thịt nhanh chín và mềm hơn.\n Rau củ: Bạn có thể thay đổi loại rau củ theo sở thích, như ớt chuông, bông cải xanh hoặc nấm.\n Nước tương: Tùy chỉnh lượng nước tương theo khẩu vị để phù hợp với độ mặn mà bạn thích.",
+    "reasons": "Giàu protein: Thịt bò cung cấp lượng protein cao, tốt cho cơ bắp và sức khỏe. \n Thơm ngon và bổ dưỡng: Mì bò xào là lựa chọn hoàn hảo cho bữa ăn nhanh, giúp bạn no bụng và cung cấp năng lượng. \n Dễ chế biến: Thời gian chuẩn bị và nấu nhanh chóng, phù hợp với những ngày bận rộn.",
+    "advice": "Sử dụng các loại mì hoặc bún nhà Ambro cho món này giúp tăng hương vị và đảm bảo chất dinh dưỡng \n Có thể thay thế nước tương bằng nước mắm tùy theo sở thích"
+  },
+  {
+    "id": 21,
+    "name": "Salad diêm mạch với hải sản",
+    "images": "https://res.cloudinary.com/didmwsu4f/image/upload/v1731461741/T21_zt50ym.jpg",
+    "datePosted": "2024-04-05",
+    "estimatedTime": 6,
+    "description": "Salad diêm mạch với hải sản là món ăn nhẹ dễ làm nhưng đầy đủ dinh dưỡng. Sự kết hợp giữa diêm mạch, tôm, mực và rau củ tươi tạo nên một món ăn vừa ngon miệng vừa tốt cho sức khỏe, hoàn hảo cho bữa trưa hoặc bữa tối.",
+    "ingredients": [
+      "Diêm mạch Ambro: 90g",
+      "Tôm: 100g (lột vỏ, rửa sạch)",
+      "Mực: 100g (cắt thành từng miếng vừa ăn)",
+      "Dưa chuột: 50g (thái lát)",
+      "Ớt chuông: 75g (thái nhỏ)",
+      "Cà chua: 75g (thái múi cau)",
+      "Hạt hạnh nhân: 35g (nướng nhẹ, nếu thích)",
+      "Phô mai feta: 50g (cắt nhỏ)",
+      "Dầu ô liu: 15ml",
+      "Nước cốt chanh: 15ml",
+      "Gia vị: Muối, tiêu, tỏi băm (theo khẩu vị)"
+    ],
+    "steps": [
+      "Nấu diêm mạch: Rửa sạch diêm mạch dưới nước lạnh. Đun nước trong nồi, thêm diêm mạch và nấu theo hướng dẫn trên bao bì cho đến khi chín. Sau đó, vớt ra và để nguội.",
+      "Chế biến hải sản: Luộc tôm trong nước sôi khoảng 2-3 phút cho đến khi tôm chuyển màu hồng và chín. Xào mực trong chảo với một ít dầu ô liu và tỏi băm cho đến khi mực chín (khoảng 2-3 phút). Để cả tôm và mực nguội.",
+      "Chuẩn bị rau củ: Trong một bát lớn, cho dưa chuột, ớt chuông, cà chua và diêm mạch đã nguội vào.",
+      "Trộn salad: Thêm tôm, mực, hạt hạnh nhân và phô mai feta vào bát rau củ. Rưới dầu ô liu và nước cốt chanh lên trên, nêm muối, tiêu theo khẩu vị và trộn đều cho các nguyên liệu kết hợp với nhau.",
+      "Trình bày: Cho salad ra đĩa, có thể trang trí thêm với hạt hạnh nhân và một lát chanh để tăng phần hấp dẫn."
+    ],
+    "nutritionFacts": "Calo: 750 calo \n Protein: 45g \n Chất béo: 40g \n Carbohydrate: 50g \n Chất xơ: 8g",
+    "tips": "Chọn hải sản: Có thể thay thế tôm và mực bằng các loại hải sản khác như cá ngừ hoặc nghêu tùy theo sở thích.\n Thay đổi rau củ: Bạn có thể thay đổi các loại rau theo mùa để làm cho món salad thêm phong phú. \n Phô mai feta: Nếu không thích phô mai feta, bạn có thể sử dụng phô mai ricotta hoặc bỏ qua hoàn toàn.",
+    "reasons": "Giàu protein: Hải sản và diêm mạch là nguồn protein tuyệt vời, hỗ trợ xây dựng cơ bắp và cung cấp năng lượng cho cơ thể. \n Nhiều chất dinh dưỡng: Rau củ tươi cung cấp vitamin, khoáng chất và chất chống oxy hóa, giúp tăng cường sức khỏe tổng thể.\n Dễ tiêu hóa: Salad nhẹ nhàng, dễ tiêu hóa, thích hợp cho những ai muốn giảm cân hoặc duy trì cân nặng.",
+    "advice": "Chuẩn bị trước: Bạn có thể chuẩn bị diêm mạch và hải sản trước và bảo quản trong tủ lạnh để tiết kiệm thời gian khi cần.\n Thêm gia vị: Tùy chỉnh gia vị theo khẩu vị cá nhân, có thể thêm một ít ớt tươi để tăng độ cay nếu thích.\n Sử dụng diêm mạch và hạnh nhân nhà Ambro giúp đảm bảo món ăn ngon miệng và đầy đủ dinh dưỡng."
+  }
+]

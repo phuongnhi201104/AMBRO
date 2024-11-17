@@ -1,0 +1,22 @@
+<div class="container">
+  <div class="row">
+    <div class="col-md-3 custom-spacing">
+      <ul class="list-group">
+        <li
+          *ngFor="let policy of policies"
+          class="list-group-item"
+          [class.active]="policy === selectedPolicy"
+          (click)="selectPolicy(policy)"
+        >
+          {{ policy.title }}
+        </li>
+      </ul>
+    </div>
+    <div class="col-md-8">
+      <div *ngIf="selectedPolicy">
+        <h2>{{ selectedPolicy.title }}</h2>
+        <div class="policy-content" [innerHTML]="selectedPolicy.content"></div>
+      </div>
+    </div>
+  </div>
+</div>

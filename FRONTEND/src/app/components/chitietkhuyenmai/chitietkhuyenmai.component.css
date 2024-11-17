@@ -1,0 +1,33 @@
+.promotion-detail-card {
+  border: none;
+  background: #f9f9f9;
+}
+
+.promotion-detail-card h2 {
+  font-size: 2rem;
+}
+
+.promotion-detail-card h5 {
+  color: #6c757d;
+}
+
+.voucher-code {
+  font-size: 1.5rem;
+  color: #117554;
+  background-color: #e9ecef;
+}
+
+.list-group-item {
+  border: none;
+  background: transparent;
+  font-size: 1rem;
+}
+
+.list-group-item i {
+  margin-right: 8px;
+  font-size: 1.2rem;
+}
+.img-fluid {
+  max-width: 100%;
+  height: auto; /* Đảm bảo ảnh co giãn theo kích thước */
+}

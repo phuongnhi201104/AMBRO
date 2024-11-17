@@ -1,0 +1,230 @@
+<div class="product-detail-container">
+  <!-- Main content -->
+  <main class="main-content">
+    <!-- Phần 1: Ảnh và Thông tin sản phẩm -->
+    <section class="product-main-info">
+      <div class="product-image">
+        <img [src]="product.image" alt="{{ product?.name }}" />
+        <!-- <img src="{{ product.image }}" alt="" /> -->
+      </div>
+      <div class="product-info">
+        <h1 class="relatedproduct-name">{{ product.name }}</h1>
+        <div div class="rating-review">
+          <span class="rating">{{ product.rating }}★</span>
+          <span class="review-count">({{ product.reviewCount }} reviews)</span>
+        </div>
+
+        <p class="product-price">
+          <ng-container *ngIf="product.label === 'Sale'; else normalPrice">
+            <span class="discounted-price">{{
+              product.price | currency : "VND"
+            }}</span>
+            <span class="weight">/{{ product.weight }}g</span>
+            <span class="original-price">{{
+              product.originalPrice | currency : "VND"
+            }}</span>
+          </ng-container>
+
+          <!-- Nếu sản phẩm không có nhãn 'Sale', chỉ hiển thị giá hiện tại -->
+          <ng-template #normalPrice>
+            <span class="price">{{ product.price | currency : "VND" }}</span>
+            <span class="weight">/{{ product.weight }}g</span>
+          </ng-template>
+        </p>
+
+        <p class="description">{{ product.description }}</p>
+        <div class="quantity-add">
+          <div class="quantity-control">
+            <button (click)="decrementQuantity()">-</button>
+            <input type="number" [value]="quantity" readonly />
+            <button (click)="incrementQuantity()">+</button>
+          </div>
+          <button class="add-to-cart">Thêm vào giỏ hàng</button>
+          <i class="far fa-heart wishlist-icon"></i>
+        </div>
+      </div>
+    </section>
+
+    <!-- Phần 2: Thẻ mô tả và đánh giá -->
+    <section class="product-tabs">
+      <div class="tab-buttons">
+        <button
+          [class.active]="activeTab === 'description'"
+          (click)="activeTab = 'description'"
+        >
+          Mô tả
+        </button>
+        <button
+          [class.active]="activeTab === 'reviews'"
+          (click)="activeTab = 'reviews'"
+        >
+          Reviews
+        </button>
+      </div>
+      <div class="tab-content">
+        <div *ngIf="activeTab === 'description'" class="description-tab">
+          <p><strong>Tiêu chuẩn kỹ thuật:</strong></p>
+          <ul>
+            <li *ngFor="let item of techStandardList">{{ item }}</li>
+          </ul>
+
+          <p><strong>Thành phần dinh dưỡng:</strong></p>
+          <ul>
+            <li *ngFor="let item of nutriCompositionList">{{ item }}</li>
+          </ul>
+
+          <p><strong>Chỉ số dinh dưỡng:</strong></p>
+          <ul>
+            <li *ngFor="let item of nutriIndexList">{{ item }}</li>
+          </ul>
+
+          <p><strong>Công dụng:</strong></p>
+          <ul>
+            <li *ngFor="let item of usageList">{{ item }}</li>
+          </ul>
+
+          <p><strong>Hướng dẫn sử dụng:</strong></p>
+          <ul>
+            <li *ngFor="let item of usageInstructionList">{{ item }}</li>
+          </ul>
+
+          <p><strong>Bảo quản:</strong></p>
+          <ul>
+            <li *ngFor="let item of storageInstructionList">{{ item }}</li>
+          </ul>
+
+          <p><strong>Lưu ý:</strong></p>
+          <ul>
+            <li *ngFor="let item of noteList">{{ item }}</li>
+          </ul>
+        </div>
+        <div *ngIf="activeTab === 'reviews'" class="reviews-tab">
+          <p>Tạm thời chưa có reviews</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Phần 3: Sản phẩm liên quan -->
+    <!-- <section class="related-products">
+          <h2>Sản phẩm liên quan</h2>
+          <div class="related-products-list">
+            <div *ngFor="let related of relatedProducts" class="related-product-item">
+              <div>
+                  <div *ngIf="related.label && related.label !== 'Normal'" class="product-label">
+                      {{ related.label }}
+                    </div>
+      
+      
+                  <img [src]="related.image" alt="{{ related.name }}" />
+              </div>
+              
+              <h5>{{ related.name }}</h5>
+              
+  
+              <p class="product-price">
+                  <ng-container *ngIf="related.label === 'Sale'; else normalPrice">
+                    
+                    <span class="discounted-price">{{ related.price | currency: 'VND' }}</span>
+                    <span class="weight">/{{ related.weight }}g</span>
+                    <span class="original-price">{{ related.originalPrice | currency: 'VND' }}</span>
+                  </ng-container>
+                  
+              
+                  <ng-template #normalPrice>
+                    <span class="price">{{ related.price | currency: 'VND' }}</span>
+                    <span class="weight">/{{ related.weight }}g</span>
+                  </ng-template> 
+              </p>
+  
+  
+            </div>
+          </div>
+          </section> -->
+    <section>
+      <h2>Sản phẩm liên quan</h2>
+      <div class="product-grid">
+        <div *ngFor="let related of relatedProducts" class="product-card">
+          <img
+            [src]="related.image"
+            alt="{{ related.name }}"
+            class="product-image"
+            (click)="navigateToProductDetail(related._id)"
+            style="cursor: pointer"
+          />
+          <p
+            class="product-name"
+            (click)="navigateToProductDetail(related._id)"
+            style="cursor: pointer"
+          >
+            {{ related.name }}
+          </p>
+
+          <div
+            *ngIf="related.label && related.label !== 'Normal'"
+            class="product-label"
+          >
+            {{ related.label }}
+          </div>
+
+          <p class="product-price">
+            <ng-container *ngIf="related.label === 'Sale'; else normalPrice">
+              <span class="discounted-price">{{
+                related.price | currency : "VND"
+              }}</span>
+              <span class="weight">/{{ related.weight }}g</span>
+              <span class="original-price">{{
+                related.originalPrice | currency : "VND"
+              }}</span>
+            </ng-container>
+
+            <ng-template #normalPrice>
+              <span class="price">{{ related.price | currency : "VND" }}</span>
+              <span class="weight">/{{ related.weight }}g</span>
+            </ng-template>
+          </p>
+          <p class="product-rating">
+            Đánh giá: {{ product.rating }} ({{ product.reviewCount }} lượt)
+          </p>
+
+          <div class="product-actions">
+            <button (click)="addToCart(product)">Thêm vào giỏ hàng</button>
+            <span class="favorite-icon" (click)="addToFavorites(product)">
+              <i class="far fa-heart wishlist-icon"></i>
+            </span>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Sidebar để trống -->
+  <aside class="sidebar">
+    <!-- Sản phẩm mới -->
+    <div class="new-product-box">
+      <h3>Sản Phẩm Mới</h3>
+      <div *ngFor="let p of newProducts" class="product-item">
+        <div class="product-item-flex">
+          <div>
+            <img
+              [src]="product.image"
+              alt="{{ product.name }}"
+              class="product-image"
+            />
+          </div>
+          <div>
+            <p>{{ product.name }}</p>
+            <br />
+            <p class="product-price">
+              {{ product.price | currency : "VND" }}/
+              <span class="weight">{{ product.weight }}g</span>
+            </p>
+            <p class="product-rating">
+              Đánh giá: {{ product.rating }} <br />
+              ({{ product.reviewCount }} lượt)
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </aside>
+</div>

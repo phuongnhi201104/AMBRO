@@ -1,0 +1,262 @@
+.payment-section {
+  border-radius: 8px;
+  padding: 48px;
+  font-family: Inter, sans-serif;
+}
+.section-title {
+  color: #0a0d13;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 28px;
+  letter-spacing: -0.48px;
+  margin-bottom: 8px;
+}
+.section-divider {
+  border: none;
+  border-top: 1px solid #acacac;
+  margin: 8px 0 36px;
+}
+.address-info,
+.phone-info {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+.address,
+.phone-number {
+  color: #000;
+  font-size: 15px;
+  line-height: 23px;
+}
+.change-btn {
+  color: #42c834;
+  font-size: 14px;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+.payment-method {
+  margin-top: 36px;
+}
+.subsection-title {
+  color: #0a0d13;
+  font-size: 18px;
+  font-weight: 600;
+  margin-bottom: 16px;
+}
+.method-options {
+  display: flex;
+  gap: 19px;
+}
+.method-btn {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: none;
+  border: none;
+  color: #0a0d13;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.method-btn.active {
+  font-weight: 700;
+}
+.method-icon {
+  width: 15px;
+  height: 15px;
+}
+.cod-icon {
+  width: 15px;
+  height: 15px;
+  border: 2px solid #acacac;
+  border-radius: 50%;
+}
+.card-form {
+  margin-top: 36px;
+}
+.form-group {
+  margin-bottom: 24px;
+}
+.form-label {
+  display: block;
+  color: #0a0d13;
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 16px;
+}
+.form-input {
+  width: 100%;
+  padding: 12px 16px;
+  border: 1.5px solid #acacac;
+  border-radius: 4px;
+  font-size: 16px;
+  color: #acacac;
+}
+.form-row {
+  display: flex;
+  gap: 18px;
+}
+.save-card {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  margin-bottom: 36px;
+}
+.save-card-checkbox {
+  width: 16px;
+  height: 16px;
+}
+.save-card-label {
+  color: #acacac;
+  font-size: 16px;
+}
+.submit-btn {
+  width: 100%;
+  padding: 20px;
+  background-color: #32c770;
+  color: #f3f3f3;
+  font-size: 16px;
+  font-weight: 700;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.privacy-notice {
+  color: #acacac;
+  font-size: 14px;
+  line-height: 22px;
+  margin-top: 23px;
+}
+@media (max-width: 991px) {
+  .payment-section {
+    padding: 20px;
+  }
+  .form-row {
+    flex-direction: column;
+    gap: 24px;
+  }
+}
+
+.summary-section {
+  background-color: #f9fafa;
+  border: 1px solid #d9d9d9;
+  padding: 48px;
+  font-family: Inter, sans-serif;
+}
+.section-title {
+  color: #0a0d13;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 28px;
+  letter-spacing: -0.48px;
+  margin-bottom: 8px;
+}
+.section-divider {
+  border: none;
+  border-top: 1px solid #acacac;
+  margin: 24px 0;
+}
+.order-item {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 36px;
+}
+.item-image {
+  position: relative;
+  width: 70px;
+  height: 70px;
+  border: 1px solid #acacac;
+  border-radius: 4px;
+  overflow: hidden;
+}
+.product-image,
+.overlay-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.item-details {
+  flex-grow: 1;
+}
+.item-header {
+  display: flex;
+  justify-content: space-between;
+  font-size: 18px;
+  font-weight: 500;
+  color: #0a0d13;
+  margin-bottom: 4px;
+}
+.item-subinfo {
+  display: flex;
+  justify-content: space-between;
+  font-size: 16px;
+  color: #acacac;
+}
+.voucher-form {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 36px;
+}
+.voucher-input {
+  flex-grow: 1;
+  padding: 14px 16px;
+  border: 1.5px solid #acacac;
+  border-radius: 4px;
+  font-size: 16px;
+  color: #acacac;
+}
+.voucher-btn {
+  padding: 13px 23px;
+  background-color: #acacac;
+  color: #f3f3f3;
+  font-size: 16px;
+  font-weight: 500;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.price-breakdown {
+  margin-bottom: 36px;
+}
+.price-row {
+  display: flex;
+  justify-content: space-between;
+  font-size: 16px;
+  color: #0a0d13;
+  margin-bottom: 16px;
+}
+.total-price {
+  display: flex;
+  justify-content: space-between;
+  font-size: 16px;
+  font-weight: 500;
+  color: #0a0d13;
+}
+.total-amount {
+  font-size: 36px;
+}
+@media (max-width: 991px) {
+  .summary-section {
+    padding: 20px;
+  }
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
+.payment-section {
+  flex: 1;
+}
+.form-row {
+  flex: 1;
+}
+.payment {
+  display: flex;
+  flex-direction: column;
+}

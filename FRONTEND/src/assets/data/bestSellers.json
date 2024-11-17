@@ -1,0 +1,17 @@
+[
+  {
+    "img": "/assets/home/new1.png",
+    "name": "Mì đậu biếc",
+    "price": "16.000đ/200g"
+  },
+  {
+    "img": "/assets/home/new2.png",
+    "name": "Bánh gạo lức",
+    "price": "70.000đ/100g"
+  },
+  {
+    "img": "/assets/home/new3.png",
+    "name": "Bánh Waffle yến mạch",
+    "price": "55.000đ/200g"
+  }
+]

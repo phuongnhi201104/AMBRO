@@ -1,0 +1,164 @@
+<!-- <main class="nutrition-calculator">
+  <div class="content-wrapper">
+    <aside class="sidebar">
+      <h2 class="sidebar-title">Công cụ</h2>
+      <nav>
+        <ul class="tool-list">
+          <li>
+            <a href="#" class="tool-link active">Tính chỉ số dinh dưỡng</a>
+          </li>
+          <li>
+            <a href="#" class="tool-link">Tính TDEE và xây dựng thực đơn</a>
+          </li>
+        </ul>
+      </nav>
+    </aside>
+    <section class="main-content">
+      <h1 class="main-title">Nhập các thông tin sản phẩm</h1>
+      <form class="nutrition-form">
+        <div class="form-group">
+          <label for="productName" class="form-label">Tên sản phẩm</label>
+          <select id="productName" class="form-select" name="productName">
+            <option></option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label for="quantity" class="form-label">Số lượng</label>
+          <input
+            type="number"
+            id="quantity"
+            class="form-input"
+            name="quantity"
+          />
+        </div>
+        <div class="form-group">
+          <label for="unit" class="form-label">Đơn vị tính</label>
+          <select id="unit" class="form-select">
+            <option value="g">g</option>
+            <option value="ml">ml</option>
+            <option value="l">lít</option>
+          </select>
+        </div>
+        <button type="submit" class="submit-button">TÌM KIẾM</button>
+      </form>
+    </section>
+  </div>
+</main> -->
+
+<main class="nutrition-calculator">
+  <div class="content-wrapper">
+    <aside class="sidebar">
+      <h2 class="sidebar-title">Công cụ</h2>
+      <nav>
+        <ul class="tool-list">
+          <li>
+            <a href="#" class="tool-link active">Tính chỉ số dinh dưỡng</a>
+          </li>
+          <li>
+            <a href="#" class="tool-link">Tính TDEE và xây dựng thực đơn</a>
+          </li>
+        </ul>
+      </nav>
+    </aside>
+    <section class="main-content">
+      <h1 class="main-title">Nhập tên thực phẩm</h1>
+      <!-- <form (ngSubmit)="searchNutrition()" class="nutrition-form">
+        <div class="form-group">
+          <label for="productName" class="form-label">Tên sản phẩm</label>
+          <input
+            type="text"
+            id="productName"
+            class="form-input"
+            [(ngModel)]="foodName"
+            name="productName"
+            required
+          />
+        </div>
+        <button type="submit" class="submit-button">TÌM KIẾM</button>
+      </form> -->
+
+      <form (ngSubmit)="searchNutrition()" class="nutrition-form">
+        <div class="form-group">
+          <label for="productName" class="form-label">Tên sản phẩm</label>
+          <input
+            type="text"
+            id="productName"
+            class="form-input"
+            [(ngModel)]="foodName"
+            (input)="fetchSuggestions()"
+            name="productName"
+            required
+          />
+          <!-- Gợi ý -->
+          <ul class="suggestion-list" *ngIf="suggestions.length > 0">
+            <li
+              *ngFor="let suggestion of suggestions"
+              (click)="selectSuggestion(suggestion.Name)"
+              class="suggestion-item"
+            >
+              {{ suggestion.Name }}
+            </li>
+          </ul>
+        </div>
+
+        <div class="form-group">
+          <label for="quantity" class="form-label">Số lượng (g)</label>
+          <input
+            type="number"
+            id="quantity"
+            class="form-input"
+            [(ngModel)]="quantity"
+            name="quantity"
+            min="1"
+            required
+          />
+        </div>
+
+        <button type="submit" class="submit-button">TÌM KIẾM</button>
+      </form>
+
+      <!-- <div class="error-message" *ngIf="errorMessage">
+        {{ errorMessage }}
+      </div>
+      <div class="nutritional-info" *ngIf="nutritionData">
+        <h2>Thông tin dinh dưỡng cho: {{ nutritionData.Name }}</h2>
+        <img
+          [src]="nutritionData.Anh"
+          class="card-img-top"
+          alt="{{ nutritionData.Name }}"
+        />
+        <ul>
+          <li>
+            <strong>{{ nutritionData.Name }}</strong>
+          </li>
+
+          <li><strong>Kcal:</strong> {{ nutritionData.Kcal }} kcal</li>
+          <li><strong>Protein:</strong> {{ nutritionData.Protein }} g</li>
+          <li><strong>Lipid:</strong> {{ nutritionData.Lipid }} g</li>
+          <li><strong>Glucid:</strong> {{ nutritionData.Glucid }} g</li>
+          <li><strong>Nhóm:</strong> {{ nutritionData.Group }}</li>
+        </ul>
+      </div> -->
+
+      <div class="nutritional-info row" *ngIf="nutritionData">
+        <div class="col-md-6">
+          <img
+            [src]="nutritionData.Anh"
+            class="img-fluid"
+            alt="{{ nutritionData.Name }}"
+          />
+        </div>
+        <div class="col-md-6">
+          <h2>Thông tin dinh dưỡng cho: {{ nutritionData.Name }}</h2>
+          <ul>
+            <li><strong>Kcal:</strong> {{ nutritionData.Kcal }} kcal</li>
+            <li><strong>Protein:</strong> {{ nutritionData.Protein }} g</li>
+            <li><strong>Lipid:</strong> {{ nutritionData.Lipid }} g</li>
+            <li><strong>Glucid:</strong> {{ nutritionData.Glucid }} g</li>
+            <li><strong>Nhóm:</strong> {{ nutritionData.Group }}</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+  </div>
+</main>

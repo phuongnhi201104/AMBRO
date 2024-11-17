@@ -1,0 +1,61 @@
+<!-- <div class="container">
+  <div class="row">
+    @for (congthuc of CongThucList; track $index){
+    <div class="col-md-4">
+      <div class="card mb-4">
+        <img
+          [src]="congthuc.images"
+          class="card-img-top"
+          alt="{{ congthuc.name }}"
+        />
+        <div class="card-body">
+          <h5 class="card-title">{{ congthuc.name }}</h5>
+          <p class="card-text">
+            <span>{{ congthuc.datePosted }}</span>
+            -----
+            <span>{{ congthuc.estimatedTime }}</span>
+          </p>
+        </div>
+      </div>
+    </div>
+    }
+  </div>
+</div> -->
+
+<div class="container">
+  <div class="row">
+    <div *ngFor="let congthuc of CongThucList; let i = index" class="col-md-3">
+      <a
+        [routerLink]="['/congthuc', congthuc._id]"
+        class="text-decoration-none"
+      >
+        <div class="card mb-4">
+          <img
+            [src]="congthuc.images"
+            class="card-img-top"
+            alt="{{ congthuc.name }}"
+          />
+          <div class="card-body">
+            <h5 class="card-title">{{ congthuc.name }}</h5>
+            <p class="card-text">
+              <span>{{ congthuc.datePosted }}</span>
+              <span>{{ congthuc.estimatedTime }}' đọc bài</span>
+            </p>
+          </div>
+        </div>
+      </a>
+    </div>
+
+    <div class="">
+      <ul class="list-group sticky-list">
+        <li
+          *ngFor="let congthuc of CongThucList; let i = index"
+          class="list-group-item"
+          [class.active]="congthuc === selectedCongThuc"
+        >
+          {{ congthuc.name }}
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>

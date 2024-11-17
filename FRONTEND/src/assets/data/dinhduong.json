@@ -1,0 +1,1118 @@
+[
+  {
+    "Id": 1,
+    "Name": "Bánh bao nhân thịt",
+    "Kcal": 219,
+    "Protein": 6.1,
+    "Lipid": 0.5,
+    "Glucid": 47.5,
+    "Group": "Ngũ cốc và các sản phẩm chế biến"
+  },
+  {
+    "Id": 2,
+    "Name": "Bánh đậu xanh",
+    "Kcal": 416,
+    "Protein": 15.6,
+    "Lipid": 11.5,
+    "Glucid": 62.4,
+    "Group": "Đồ ngọt"
+  },
+  {
+    "Id": 3,
+    "Name": "Bánh đúc",
+    "Kcal": 52,
+    "Protein": 0.9,
+    "Lipid": 0.3,
+    "Glucid": 11.3,
+    "Group": "Ngũ cốc và các sản phẩm chế biến"
+  },
+  {
+    "Id": 4,
+    "Name": "Bánh mì",
+    "Kcal": 249,
+    "Protein": 7.9,
+    "Lipid": 0.8,
+    "Glucid": 52.6,
+    "Group": "Ngũ cốc và các sản phẩm chế biến"
+  },
+  {
+    "Id": 5,
+    "Name": "Bánh phở",
+    "Kcal": 143,
+    "Protein": 3.2,
+    "Lipid": 0.4,
+    "Glucid": 31.7,
+    "Group": "Ngũ cốc và các sản phẩm chế biến"
+  },
+  {
+    "Id": 6,
+    "Name": "Bánh quẩy",
+    "Kcal": 292,
+    "Protein": 8,
+    "Lipid": 10.8,
+    "Glucid": 40.7,
+    "Group": "Ngũ cốc và các sản phẩm chế biến"
+  },
+  {
+    "Id": 7,
+    "Name": "Bánh quy",
+    "Kcal": 376,
+    "Protein": 8.8,
+    "Lipid": 4.5,
+    "Glucid": 75.1,
+    "Group": "Đồ ngọt"
+  },
+  {
+    "Id": 8,
+    "Name": "Bầu",
+    "Kcal": 14,
+    "Protein": 0.6,
+    "Lipid": 0.02,
+    "Glucid": 2.9,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 9,
+    "Name": "Bí đao(Bí xanh)",
+    "Kcal": 12,
+    "Protein": 0.6,
+    "Lipid": "-",
+    "Glucid": 2.4,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 10,
+    "Name": "Bí ngô (bí đỏ)",
+    "Kcal": 27,
+    "Protein": 0.3,
+    "Lipid": 0.1,
+    "Glucid": 6.1,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 11,
+    "Name": "Bơ",
+    "Kcal": 756,
+    "Protein": 0.5,
+    "Lipid": 83.5,
+    "Glucid": 0.5,
+    "Group": "Dầu, mỡ, bơ"
+  },
+  {
+    "Id": 12,
+    "Name": "Bột gạo nếp",
+    "Kcal": 362,
+    "Protein": 8.2,
+    "Lipid": 1.6,
+    "Glucid": 78.8,
+    "Group": "Ngũ cốc và các sản phẩm chế biến"
+  },
+  {
+    "Id": 13,
+    "Name": "Bột gạo tẻ",
+    "Kcal": 359,
+    "Protein": 6.6,
+    "Lipid": 0.4,
+    "Glucid": 82.2,
+    "Group": "Ngũ cốc và các sản phẩm chế biến"
+  },
+  {
+    "Id": 14,
+    "Name": "Bột khoai lang",
+    "Kcal": 334,
+    "Protein": 2.2,
+    "Lipid": 0.5,
+    "Glucid": 80.2,
+    "Group": "Khoai củ và sản phẩm chế biến"
+  },
+  {
+    "Id": 15,
+    "Name": "Bột mì",
+    "Kcal": 346,
+    "Protein": 10.3,
+    "Lipid": 1.1,
+    "Glucid": 73.6,
+    "Group": "Ngũ cốc và các sản phẩm chế biến"
+  },
+  {
+    "Id": 16,
+    "Name": "Bột ngô vàng",
+    "Kcal": 361,
+    "Protein": 8.3,
+    "Lipid": 4,
+    "Glucid": 73,
+    "Group": "Ngũ cốc và các sản phẩm chế biến"
+  },
+  {
+    "Id": 17,
+    "Name": "Bột sắn củ",
+    "Kcal": 333,
+    "Protein": 2.4,
+    "Lipid": 0.5,
+    "Glucid": 79.6,
+    "Group": "Khoai củ và sản phẩm chế biến"
+  },
+  {
+    "Id": 18,
+    "Name": "Bún",
+    "Kcal": 110,
+    "Protein": 1.7,
+    "Lipid": "-",
+    "Glucid": 25.7,
+    "Group": "Ngũ cốc và các sản phẩm chế biến"
+  },
+  {
+    "Id": 19,
+    "Name": "Bưởi",
+    "Kcal": 30,
+    "Protein": 0.2,
+    "Lipid": 0,
+    "Glucid": 7.3,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 20,
+    "Name": "Cà bát",
+    "Kcal": 23,
+    "Protein": 1.2,
+    "Lipid": 0.2,
+    "Glucid": 4,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 21,
+    "Name": "Cá chép",
+    "Kcal": 96,
+    "Protein": 16,
+    "Lipid": 3.6,
+    "Glucid": 0,
+    "Group": "Thủy sản và sản phẩm chế biến"
+  },
+  {
+    "Id": 22,
+    "Name": "Cà chua",
+    "Kcal": 20,
+    "Protein": 0.6,
+    "Lipid": 0.2,
+    "Glucid": 4,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 23,
+    "Name": "Cá nục",
+    "Kcal": 111,
+    "Protein": 20.2,
+    "Lipid": 3.3,
+    "Glucid": 0,
+    "Group": "Thủy sản và sản phẩm chế biến"
+  },
+  {
+    "Id": 24,
+    "Name": "Cá quả (cá lóc)",
+    "Kcal": 97,
+    "Protein": 18.2,
+    "Lipid": 2.7,
+    "Glucid": 0,
+    "Group": "Thủy sản và sản phẩm chế biến"
+  },
+  {
+    "Id": 25,
+    "Name": "Cá rô",
+    "Kcal": 126,
+    "Protein": 19.1,
+    "Lipid": 5.5,
+    "Glucid": 0,
+    "Group": "Thủy sản và sản phẩm chế biến"
+  },
+  {
+    "Id": 26,
+    "Name": "Cà rốt",
+    "Kcal": 39,
+    "Protein": 1.5,
+    "Lipid": 0.2,
+    "Glucid": 7.8,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 27,
+    "Name": "Cá thu",
+    "Kcal": 166,
+    "Protein": 18.2,
+    "Lipid": 10.3,
+    "Glucid": 0,
+    "Group": "Thủy sản và sản phẩm chế biến"
+  },
+  {
+    "Id": 28,
+    "Name": "Cá trắm",
+    "Kcal": 91,
+    "Protein": 17,
+    "Lipid": 2.6,
+    "Glucid": 0,
+    "Group": "Thủy sản và sản phẩm chế biến"
+  },
+  {
+    "Id": 29,
+    "Name": "Cá trê",
+    "Kcal": 173,
+    "Protein": 16.5,
+    "Lipid": 11.9,
+    "Glucid": 0,
+    "Group": "Thủy sản và sản phẩm chế biến"
+  },
+  {
+    "Id": 30,
+    "Name": "Cá trôi",
+    "Kcal": 127,
+    "Protein": 18.8,
+    "Lipid": 5.7,
+    "Glucid": 0,
+    "Group": "Thủy sản và sản phẩm chế biến"
+  },
+  {
+    "Id": 31,
+    "Name": "Cải bắp",
+    "Kcal": 29,
+    "Protein": 1.8,
+    "Lipid": 0.1,
+    "Glucid": 5.3,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 32,
+    "Name": "Cải cúc",
+    "Kcal": 14,
+    "Protein": 1.6,
+    "Lipid": "-",
+    "Glucid": 1.9,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 33,
+    "Name": "Cải soong",
+    "Kcal": 15,
+    "Protein": 2.1,
+    "Lipid": 0.1,
+    "Glucid": 1.3,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 34,
+    "Name": "Cải thìa",
+    "Kcal": 17,
+    "Protein": 1.4,
+    "Lipid": 0.2,
+    "Glucid": 2.4,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 35,
+    "Name": "Cải xanh",
+    "Kcal": 16,
+    "Protein": 1.7,
+    "Lipid": 0.2,
+    "Glucid": 1.9,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 36,
+    "Name": "Cam",
+    "Kcal": 38,
+    "Protein": 0.9,
+    "Lipid": 0.1,
+    "Glucid": 8.3,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 37,
+    "Name": "Cần ta",
+    "Kcal": 10,
+    "Protein": 1,
+    "Lipid": "-",
+    "Glucid": 1.5,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 38,
+    "Name": "Chanh",
+    "Kcal": 24,
+    "Protein": 0.9,
+    "Lipid": 0.3,
+    "Glucid": 4.5,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 39,
+    "Name": "Chôm chôm",
+    "Kcal": 72,
+    "Protein": 1.5,
+    "Lipid": 0,
+    "Glucid": 16.4,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 40,
+    "Name": "Chuối tây",
+    "Kcal": 56,
+    "Protein": 0.9,
+    "Lipid": 0.3,
+    "Glucid": 124,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 41,
+    "Name": "Chuối tiêu",
+    "Kcal": 97,
+    "Protein": 1.5,
+    "Lipid": 0.2,
+    "Glucid": 22.2,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 42,
+    "Name": "Chuối xanh",
+    "Kcal": 74,
+    "Protein": 1.2,
+    "Lipid": 0.5,
+    "Glucid": 16.4,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 43,
+    "Name": "Củ từ",
+    "Kcal": 92,
+    "Protein": 1.5,
+    "Lipid": "-",
+    "Glucid": 21.5,
+    "Group": "Khoai củ và sản phẩm chế biến"
+  },
+  {
+    "Id": 44,
+    "Name": "Cua đồng",
+    "Kcal": 87,
+    "Protein": 12.3,
+    "Lipid": 3.3,
+    "Glucid": 2,
+    "Group": "Thủy sản và sản phẩm chế biến"
+  },
+  {
+    "Id": 45,
+    "Name": "Cùi dừa già",
+    "Kcal": 368,
+    "Protein": 4.8,
+    "Lipid": 36,
+    "Glucid": 6.2,
+    "Group": "Hạt, quả giàu đạm, béo và sản phấm chế biến"
+  },
+  {
+    "Id": 46,
+    "Name": "Cùi dừa non",
+    "Kcal": 40,
+    "Protein": 3.5,
+    "Lipid": 1.7,
+    "Glucid": 2.6,
+    "Group": "Hạt, quả giàu đạm, béo và sản phấm chế biến"
+  },
+  {
+    "Id": 47,
+    "Name": "Đậu cove",
+    "Kcal": 73,
+    "Protein": 5,
+    "Lipid": "-",
+    "Glucid": 13.3,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 48,
+    "Name": "Đậu cove hạt",
+    "Kcal": 321,
+    "Protein": 21.8,
+    "Lipid": 1.6,
+    "Glucid": 54.9,
+    "Group": "Hạt, quả giàu đạm, béo và sản phấm chế biến"
+  },
+  {
+    "Id": 49,
+    "Name": "Đậu đen hạt",
+    "Kcal": 325,
+    "Protein": 24.2,
+    "Lipid": 1.7,
+    "Glucid": 53.3,
+    "Group": "Hạt, quả giàu đạm, béo và sản phấm chế biến"
+  },
+  {
+    "Id": 50,
+    "Name": "Đậu đũa",
+    "Kcal": 59,
+    "Protein": 6,
+    "Lipid": 0.4,
+    "Glucid": 7.9,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 51,
+    "Name": "Đậu Hà Lan",
+    "Kcal": 72,
+    "Protein": 6.5,
+    "Lipid": 0.4,
+    "Glucid": 10.6,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 52,
+    "Name": "Dầu lạc",
+    "Kcal": 900,
+    "Protein": 0,
+    "Lipid": 100,
+    "Glucid": 0,
+    "Group": "Dầu, mỡ, bơ"
+  },
+  {
+    "Id": 53,
+    "Name": "Đậu phụ",
+    "Kcal": 95,
+    "Protein": 10.9,
+    "Lipid": 5.4,
+    "Glucid": 0.7,
+    "Group": "Hạt, quả giàu đạm, béo và sản phấm chế biến"
+  },
+  {
+    "Id": 54,
+    "Name": "Đậu rồng",
+    "Kcal": 34,
+    "Protein": 1.9,
+    "Lipid": 0.1,
+    "Glucid": 6.3,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 55,
+    "Name": "Đậu tương hạt",
+    "Kcal": 400,
+    "Protein": 34,
+    "Lipid": 18.4,
+    "Glucid": 24.6,
+    "Group": "Hạt, quả giàu đạm, béo và sản phấm chế biến"
+  },
+  {
+    "Id": 56,
+    "Name": "Đậu xanh hạt",
+    "Kcal": 328,
+    "Protein": 23.4,
+    "Lipid": 2.4,
+    "Glucid": 53.1,
+    "Group": "Hạt, quả giàu đạm, béo và sản phấm chế biến"
+  },
+  {
+    "Id": 57,
+    "Name": "Đu đủ chín",
+    "Kcal": 36,
+    "Protein": 1,
+    "Lipid": 0.1,
+    "Glucid": 7.6,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 58,
+    "Name": "Dứa (thơm, khóm)",
+    "Kcal": 29,
+    "Protein": 0.8,
+    "Lipid": "-",
+    "Glucid": 6.5,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 59,
+    "Name": "Dưa hấu",
+    "Kcal": 16,
+    "Protein": 1.2,
+    "Lipid": 0.2,
+    "Glucid": 2.3,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 60,
+    "Name": "Gạo lứt",
+    "Kcal": 345,
+    "Protein": 7.5,
+    "Lipid": 2.7,
+    "Glucid": 72.8,
+    "Group": "Ngũ cốc và các sản phẩm chế biến"
+  },
+  {
+    "Id": 61,
+    "Name": "Gạo nếp cái",
+    "Kcal": 344,
+    "Protein": 8.6,
+    "Lipid": 1.5,
+    "Glucid": 74.5,
+    "Group": "Ngũ cốc và các sản phẩm chế biến"
+  },
+  {
+    "Id": 62,
+    "Name": "Gạo tẻ máy",
+    "Kcal": 344,
+    "Protein": 7.9,
+    "Lipid": 1,
+    "Glucid": 75.9,
+    "Group": "Ngũ cốc và các sản phẩm chế biến"
+  },
+  {
+    "Id": 63,
+    "Name": "Giá đậu xanh",
+    "Kcal": 44,
+    "Protein": 5.5,
+    "Lipid": 0.2,
+    "Glucid": 5.1,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 64,
+    "Name": "Hành lá xanh",
+    "Kcal": 22,
+    "Protein": 1.3,
+    "Lipid": "-",
+    "Glucid": 4.3,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 65,
+    "Name": "Hành tây củ",
+    "Kcal": 41,
+    "Protein": 1.8,
+    "Lipid": 0.1,
+    "Glucid": 8.2,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 66,
+    "Name": "Hạt điều",
+    "Kcal": 605,
+    "Protein": 18.4,
+    "Lipid": 46.3,
+    "Glucid": 28.7,
+    "Group": "Hạt, quả giàu đạm, béo và sản phấm chế biến"
+  },
+  {
+    "Id": 67,
+    "Name": "Hạt sen khô",
+    "Kcal": 334,
+    "Protein": 20,
+    "Lipid": 2.4,
+    "Glucid": 58,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 68,
+    "Name": "Hạt sen tươi",
+    "Kcal": 161,
+    "Protein": 9.5,
+    "Lipid": 0.5,
+    "Glucid": 29.5,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 69,
+    "Name": "Hến",
+    "Kcal": 45,
+    "Protein": 4.5,
+    "Lipid": 0.7,
+    "Glucid": 5.1,
+    "Group": "Thủy sản và sản phẩm chế biến"
+  },
+  {
+    "Id": 70,
+    "Name": "Kê",
+    "Kcal": 331,
+    "Protein": 7,
+    "Lipid": 3,
+    "Glucid": 69,
+    "Group": "Ngũ cốc và các sản phẩm chế biến"
+  },
+  {
+    "Id": 71,
+    "Name": "Khoai lang củ",
+    "Kcal": 119,
+    "Protein": 0.8,
+    "Lipid": 0.2,
+    "Glucid": 28.5,
+    "Group": "Khoai củ và sản phẩm chế biến"
+  },
+  {
+    "Id": 72,
+    "Name": "Khoai sọ",
+    "Kcal": 114,
+    "Protein": 1.8,
+    "Lipid": 0.1,
+    "Glucid": 26.5,
+    "Group": "Khoai củ và sản phẩm chế biến"
+  },
+  {
+    "Id": 73,
+    "Name": "Khoai tây",
+    "Kcal": 93,
+    "Protein": 2,
+    "Lipid": 0.1,
+    "Glucid": 20.9,
+    "Group": "Khoai củ và sản phẩm chế biến"
+  },
+  {
+    "Id": 74,
+    "Name": "Lạc hạt",
+    "Kcal": 573,
+    "Protein": 27.5,
+    "Lipid": 44.5,
+    "Glucid": 15.5,
+    "Group": "Hạt, quả giàu đạm, béo và sản phấm chế biến"
+  },
+  {
+    "Id": 75,
+    "Name": "Mì sợi",
+    "Kcal": 349,
+    "Protein": 11,
+    "Lipid": 0.9,
+    "Glucid": 74.2,
+    "Group": "Ngũ cốc và các sản phẩm chế biến"
+  },
+  {
+    "Id": 76,
+    "Name": "Mướp",
+    "Kcal": 17,
+    "Protein": 0.9,
+    "Lipid": 0.2,
+    "Glucid": 2.8,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 77,
+    "Name": "Nấm mỡ tươi",
+    "Kcal": 32,
+    "Protein": 4,
+    "Lipid": 0.3,
+    "Glucid": 3.4,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 78,
+    "Name": "Nấm rơm",
+    "Kcal": 57,
+    "Protein": 3.6,
+    "Lipid": 3.2,
+    "Glucid": 3.4,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 79,
+    "Name": "Ngô nếp luộc",
+    "Kcal": 167,
+    "Protein": 3.9,
+    "Lipid": 2.2,
+    "Glucid": 32.9,
+    "Group": "Ngũ cốc và các sản phẩm chế biến"
+  },
+  {
+    "Id": 80,
+    "Name": "Ngô tươi",
+    "Kcal": 196,
+    "Protein": 4.1,
+    "Lipid": 2.3,
+    "Glucid": 39.6,
+    "Group": "Ngũ cốc và các sản phẩm chế biến"
+  },
+  {
+    "Id": 81,
+    "Name": "Nhãn",
+    "Kcal": 48,
+    "Protein": 0.9,
+    "Lipid": 0.1,
+    "Glucid": 10.9,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 82,
+    "Name": "Nho ta",
+    "Kcal": 59,
+    "Protein": 0.4,
+    "Lipid": "-",
+    "Glucid": 3.1,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 83,
+    "Name": "Ốc đá",
+    "Kcal": 63,
+    "Protein": 11.2,
+    "Lipid": 0.3,
+    "Glucid": 3.9,
+    "Group": "Thủy sản và sản phẩm chế biến"
+  },
+  {
+    "Id": 84,
+    "Name": "Ốc nhồi",
+    "Kcal": 84,
+    "Protein": 11.9,
+    "Lipid": 0.7,
+    "Glucid": 7.6,
+    "Group": "Thủy sản và sản phẩm chế biến"
+  },
+  {
+    "Id": 85,
+    "Name": "Ốc vặn",
+    "Kcal": 72,
+    "Protein": 12.2,
+    "Lipid": 0.7,
+    "Glucid": 4.3,
+    "Group": "Thủy sản và sản phẩm chế biến"
+  },
+  {
+    "Id": 86,
+    "Name": "Quả bơ vỏ xanh",
+    "Kcal": 101,
+    "Protein": 1.9,
+    "Lipid": 9.4,
+    "Glucid": 2.3,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 87,
+    "Name": "Quả quýt",
+    "Kcal": 39,
+    "Protein": 0.8,
+    "Lipid": 0.3,
+    "Glucid": 8.3,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 88,
+    "Name": "Quả thanh long",
+    "Kcal": 40,
+    "Protein": 1.3,
+    "Lipid": "-",
+    "Glucid": 8.7,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 89,
+    "Name": "Quả trứng gà",
+    "Kcal": 106,
+    "Protein": 4.3,
+    "Lipid": 0.4,
+    "Glucid": 21.3,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 90,
+    "Name": "Quả vải",
+    "Kcal": 45,
+    "Protein": 0.7,
+    "Lipid": 0.4,
+    "Glucid": 9.6,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 91,
+    "Name": "Rạm tươi",
+    "Kcal": 77,
+    "Protein": 12.9,
+    "Lipid": 2.8,
+    "Glucid": 0,
+    "Group": "Thủy sản và sản phẩm chế biến"
+  },
+  {
+    "Id": 92,
+    "Name": "Rau bí",
+    "Kcal": 18,
+    "Protein": 2.7,
+    "Lipid": "-",
+    "Glucid": 1.7,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 93,
+    "Name": "Rau đay",
+    "Kcal": 25,
+    "Protein": 2.8,
+    "Lipid": 0.3,
+    "Glucid": 3,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 94,
+    "Name": "Rau dền đỏ",
+    "Kcal": 41,
+    "Protein": 3.3,
+    "Lipid": 0.3,
+    "Glucid": 6.2,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 95,
+    "Name": "Rau mồng tơi",
+    "Kcal": 14,
+    "Protein": 2,
+    "Lipid": "-",
+    "Glucid": 1.4,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 96,
+    "Name": "Rau muống",
+    "Kcal": 25,
+    "Protein": 3.2,
+    "Lipid": 0.4,
+    "Glucid": 2.1,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 97,
+    "Name": "Rau ngót",
+    "Kcal": 35,
+    "Protein": 5.3,
+    "Lipid": "-",
+    "Glucid": 3.4,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 98,
+    "Name": "Rau tàu bay",
+    "Kcal": 18,
+    "Protein": 2.5,
+    "Lipid": "-",
+    "Glucid": 1.9,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 99,
+    "Name": "Ruốc thịt lợn",
+    "Kcal": 369,
+    "Protein": 46.6,
+    "Lipid": 20.3,
+    "Glucid": 0,
+    "Group": "Thịt và sản phẩm chế biến"
+  },
+  {
+    "Id": 100,
+    "Name": "Su hào",
+    "Kcal": 37,
+    "Protein": 2.8,
+    "Lipid": 0.1,
+    "Glucid": 6.2,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 101,
+    "Name": "Sữa bò tươi",
+    "Kcal": 74,
+    "Protein": 3.9,
+    "Lipid": 4.4,
+    "Glucid": 4.8,
+    "Group": "Sữa và sản phẩm chế biến"
+  },
+  {
+    "Id": 102,
+    "Name": "Sữa bột toàn phần",
+    "Kcal": 494,
+    "Protein": 27,
+    "Lipid": 26,
+    "Glucid": 38,
+    "Group": "Sữa và sản phẩm chế biến"
+  },
+  {
+    "Id": 103,
+    "Name": "Sữa chua",
+    "Kcal": 61,
+    "Protein": 3.3,
+    "Lipid": 3.7,
+    "Glucid": 3.6,
+    "Group": "Sữa và sản phẩm chế biến"
+  },
+  {
+    "Id": 104,
+    "Name": "Sữa đặc có đường Việt Nam",
+    "Kcal": 336,
+    "Protein": 8.1,
+    "Lipid": 8.8,
+    "Glucid": 56,
+    "Group": "Sữa và sản phẩm chế biến"
+  },
+  {
+    "Id": 105,
+    "Name": "Sữa đậu nành",
+    "Kcal": 28,
+    "Protein": 3.1,
+    "Lipid": 1.6,
+    "Glucid": 0.4,
+    "Group": "Hạt, quả giàu đạm, béo và sản phấm chế biến"
+  },
+  {
+    "Id": 106,
+    "Name": "Sữa mẹ",
+    "Kcal": 61,
+    "Protein": 1.5,
+    "Lipid": 3,
+    "Glucid": 7,
+    "Group": "Sữa và sản phẩm chế biến"
+  },
+  {
+    "Id": 107,
+    "Name": "Súp lơ trắng",
+    "Kcal": 30,
+    "Protein": 2.5,
+    "Lipid": 0.1,
+    "Glucid": 4.8,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 108,
+    "Name": "Tào phớ",
+    "Kcal": 37,
+    "Protein": 2.3,
+    "Lipid": 0.2,
+    "Glucid": 6.4,
+    "Group": "Hạt, quả giàu đạm, béo và sản phấm chế biến"
+  },
+  {
+    "Id": 109,
+    "Name": "Táo tây",
+    "Kcal": 48,
+    "Protein": 0.5,
+    "Lipid": 0.2,
+    "Glucid": 11,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 110,
+    "Name": "Tép gạo",
+    "Kcal": 58,
+    "Protein": 11.7,
+    "Lipid": 1.2,
+    "Glucid": 0,
+    "Group": "Thủy sản và sản phẩm chế biến"
+  },
+  {
+    "Id": 111,
+    "Name": "Tép khô",
+    "Kcal": 269,
+    "Protein": 59.8,
+    "Lipid": 3,
+    "Glucid": 0.7,
+    "Group": "Thủy sản và sản phẩm chế biến"
+  },
+  {
+    "Id": 112,
+    "Name": "Thịt bò loại 1",
+    "Kcal": 118,
+    "Protein": 21,
+    "Lipid": 3.8,
+    "Glucid": 0,
+    "Group": "Thịt và sản phẩm chế biến"
+  },
+  {
+    "Id": 113,
+    "Name": "Thịt gà ta",
+    "Kcal": 199,
+    "Protein": 20.3,
+    "Lipid": 13.1,
+    "Glucid": 0,
+    "Group": "Thịt và sản phẩm chế biến"
+  },
+  {
+    "Id": 114,
+    "Name": "Thịt lợn mỡ",
+    "Kcal": 394,
+    "Protein": 14.5,
+    "Lipid": 37.3,
+    "Glucid": 0,
+    "Group": "Thịt và sản phẩm chế biến"
+  },
+  {
+    "Id": 115,
+    "Name": "Thịt lợn nạc",
+    "Kcal": 139,
+    "Protein": 19,
+    "Lipid": 7,
+    "Glucid": 0,
+    "Group": "Thịt và sản phẩm chế biến"
+  },
+  {
+    "Id": 116,
+    "Name": "Thịt lợn nửa nạc nửa mỡ",
+    "Kcal": 260,
+    "Protein": 16.5,
+    "Lipid": 21.5,
+    "Glucid": 0,
+    "Group": "Thịt và sản phẩm chế biến"
+  },
+  {
+    "Id": 117,
+    "Name": "Tôm biển",
+    "Kcal": 82,
+    "Protein": 17.6,
+    "Lipid": 0.9,
+    "Glucid": 0.9,
+    "Group": "Thủy sản và sản phẩm chế biến"
+  },
+  {
+    "Id": 118,
+    "Name": "Tôm đồng",
+    "Kcal": 90,
+    "Protein": 18.4,
+    "Lipid": 1.8,
+    "Glucid": 0,
+    "Group": "Thủy sản và sản phẩm chế biến"
+  },
+  {
+    "Id": 119,
+    "Name": "Tôm khô",
+    "Kcal": 347,
+    "Protein": 75.6,
+    "Lipid": 3.8,
+    "Glucid": 2.5,
+    "Group": "Thủy sản và sản phẩm chế biến"
+  },
+  {
+    "Id": 120,
+    "Name": "Trứng chim cút",
+    "Kcal": 154,
+    "Protein": 13.1,
+    "Lipid": 11.1,
+    "Glucid": 0.4,
+    "Group": "Trứng"
+  },
+  {
+    "Id": 121,
+    "Name": "Trứng gà",
+    "Kcal": 166,
+    "Protein": 14.8,
+    "Lipid": 11.6,
+    "Glucid": 0.5,
+    "Group": "Trứng"
+  },
+  {
+    "Id": 122,
+    "Name": "Trứng vịt",
+    "Kcal": 184,
+    "Protein": 13,
+    "Lipid": 14.2,
+    "Glucid": 1,
+    "Group": "Trứng"
+  },
+  {
+    "Id": 123,
+    "Name": "Vú sữa",
+    "Kcal": 42,
+    "Protein": 1,
+    "Lipid": "-",
+    "Glucid": 9.4,
+    "Group": "Rau, quả, củ dùng làm rau"
+  },
+  {
+    "Id": 124,
+    "Name": "Xoài",
+    "Kcal": 62,
+    "Protein": 0.6,
+    "Lipid": 0.3,
+    "Glucid": 14.1,
+    "Group": "Rau, quả, củ dùng làm rau"
+  }
+]

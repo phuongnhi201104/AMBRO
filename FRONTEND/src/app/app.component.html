@@ -1,0 +1,35 @@
+<link
+  rel="stylesheet"
+  href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,1,0"
+/>
+
+<!-- <div class="wrapper">
+  <app-header></app-header>
+  <br />
+  <div class="main">
+    <router-outlet></router-outlet>
+  </div>
+  <app-footer></app-footer>
+</div> -->
+
+<div *ngIf="isAdminLayout; else userLayout">
+  <!-- Layout Admin -->
+  <div class="admin-layout">
+    <app-sidebar></app-sidebar>
+    <div class="main-content">
+      <router-outlet></router-outlet>
+    </div>
+  </div>
+</div>
+
+<ng-template #userLayout>
+  <!-- Layout Khách Hàng -->
+  <div class="wrapper">
+    <app-header></app-header>
+    <br />
+    <div class="main">
+      <router-outlet></router-outlet>
+    </div>
+    <app-footer></app-footer>
+  </div>
+</ng-template>

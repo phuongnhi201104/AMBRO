@@ -1,0 +1,82 @@
+<h2 class="cart-title">Giỏ hàng của tôi</h2>
+<div class="container">
+  <div class="container-table">
+    <div class="table">
+      <table class="cart-table">
+        <thead>
+          <tr>
+            <th>
+              <input
+                type="checkbox"
+                (change)="toggleSelectAll($event)"
+                [checked]="isAllSelected()"
+              />
+            </th>
+            <th>Hình ảnh</th>
+            <th>Tên sản phẩm</th>
+            <th>Khối lượng</th>
+            <th>Đơn giá</th>
+            <th>Số lượng</th>
+            <th>Thành tiền</th>
+            <th>Hành động</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr
+            *ngFor="let item of cartItems; let i = index"
+            [ngClass]="{ 'selected-row': item.selected }"
+          >
+            <td>
+              <input type="checkbox" [(ngModel)]="item.selected" />
+            </td>
+            <td>
+              <img [src]="item.product.image" alt="{{ item.product.name }}" />
+            </td>
+            <td>{{ item.product.name }}</td>
+            <td>{{ item.product.weight }}g</td>
+            <td>{{ item.product.price | currency : "VND" }}</td>
+            <td>
+              <input
+                type="number"
+                [(ngModel)]="item.quantity"
+                min="1"
+                (change)="updateCartItem(item, i)"
+              />
+            </td>
+            <td>{{ item.product.price * item.quantity | currency : "VND" }}</td>
+
+            <td>
+              <button (click)="confirmRemove(item.product._id)">Xóa</button>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="info-below">
+      <div class="continue-buying">
+        <button (click)="continueShopping()">Tiếp tục mua hàng</button>
+      </div>
+      <div class="cart-summary">
+        <p>Tổng số sản phẩm trong giỏ hàng: {{ getTotalItems() }}</p>
+        <p>Tổng giá trị giỏ hàng: {{ getTotalAmount() | currency : "VND" }}</p>
+        <button (click)="confirmRemoveSelected()">
+          Xóa các sản phẩm đã chọn
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <div class="container-payment">
+    <h3 class="cart-title left">Tổng thanh toán</h3>
+    <p>
+      Tổng tiền hàng:
+      <span style="margin-left: 90px">{{
+        getTotalSelectedAmount() | currency : "VND"
+      }}</span>
+    </p>
+    <button class="button-payment">
+      <a routerlink="/thanhtoan" href="/thanhtoan">Tiến hành thanh toán</a>
+    </button>
+  </div>
+</div>

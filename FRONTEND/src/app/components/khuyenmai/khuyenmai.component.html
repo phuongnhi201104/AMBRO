@@ -1,0 +1,151 @@
+<!-- promotion.component.html -->
+<!-- <div class="container">
+  <div class="row">
+    <div *ngFor="let khuyenmai of khuyenmais; let i = index" class="col-md-3">
+      <a
+        [routerLink]="['/khuyenmai', khuyenmai._id]"
+        class="text-decoration-none"
+      >
+        <div class="card mb-4">
+         
+          <div class="card-body">
+            <h5 class="card-title">{{ khuyenmai.name }}</h5>
+            <p class="card-text">
+              <span>{{ khuyenmai.title }}</span>
+            </p>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
+</div> -->
+<div class="container my-5">
+  <div class="row">
+    <div
+      *ngFor="let khuyenmai of khuyenmais; let i = index"
+      class="col-md-6 col-lg-4 col-xl-3"
+    >
+      <a
+        [routerLink]="['/khuyenmai', khuyenmai._id]"
+        class="text-decoration-none"
+      >
+        <div
+          class="card promotion-card mb-4 shadow-sm h-100 d-flex flex-column"
+        >
+          <div class="card-body d-flex flex-column justify-content-between">
+            <img
+              [src]="khuyenmai.voucher"
+              class="img-fluid"
+              alt="{{ khuyenmai.name }}"
+            />
+            <h5 class="card-title promotion-title">
+              {{ khuyenmai.name }}
+            </h5>
+            <p class="card-text">{{ khuyenmai.title }}</p>
+            <p class="card-text">{{ khuyenmai.time }}</p>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
+
+  <!-- Promotion Guide Section -->
+  <div class="promotion-guide my-5">
+    <h2 class="text-center promotion-title">
+      Hướng Dẫn Sử Dụng Khuyến Mãi – Tận Hưởng Ưu Đãi Dễ Dàng!
+    </h2>
+    <p class="lead text-center mb-5">
+      Chào mừng bạn đến với trang khuyến mãi của chúng tôi! Tại đây, chúng tôi
+      muốn bạn không chỉ tận hưởng những ưu đãi tuyệt vời mà còn có trải nghiệm
+      mua sắm thuận tiện và dễ dàng nhất. Hãy cùng xem qua hướng dẫn chi tiết
+      dưới đây nhé!
+    </p>
+
+    <h3>Bước 1: Khám Phá Các Chương Trình Khuyến Mãi</h3>
+    <p>
+      Dưới mỗi banner khuyến mãi, chúng tôi đều có nút “Chi Tiết”. Khi bạn nhấp
+      vào, bạn sẽ xem được thông tin chi tiết về chương trình khuyến mãi như:
+    </p>
+    <ul>
+      <li>Mức ưu đãi (ví dụ: Giảm giá %, tặng thêm sản phẩm,…)</li>
+      <li>Thời gian áp dụng và số lượng có hạn nếu có</li>
+      <li>
+        Điều kiện áp dụng (như giá trị đơn hàng tối thiểu hoặc giới hạn thời
+        gian)
+      </li>
+    </ul>
+
+    <h3>Bước 2: Lưu Mã Khuyến Mãi – Đừng Bỏ Lỡ!</h3>
+    <p>
+      Ngay khi bạn quyết định tham gia chương trình khuyến mãi, hãy lưu mã lại
+      để sẵn sàng khi thanh toán.
+    </p>
+    <ul>
+      <li>Nhấn vào nút “Lấy Mã” trên banner khuyến mãi mà bạn yêu thích.</li>
+      <li>
+        Mã sẽ được hiển thị trên màn hình. Bạn có thể chọn sao chép mã trực tiếp
+        để dễ sử dụng khi thanh toán.
+      </li>
+    </ul>
+
+    <h3>Bước 3: Cho Món Ăn Vào Giỏ Hàng</h3>
+    <p>
+      Hãy dạo qua trang web của chúng tôi và chọn các món ăn yêu thích của bạn:
+    </p>
+    <ul>
+      <li>
+        Từ những combo giảm giá đến các món eat-clean dinh dưỡng, tất cả đều sẵn
+        sàng để bạn lựa chọn và thêm vào giỏ hàng.
+      </li>
+      <li>Để tối ưu hóa khuyến mãi, hãy kiểm tra điều kiện áp dụng mã.</li>
+    </ul>
+
+    <h3>Bước 4: Áp Mã Khuyến Mãi Khi Thanh Toán</h3>
+    <p>
+      Khi bạn đã hài lòng với các món đã chọn trong giỏ hàng, hãy chuyển sang
+      trang thanh toán, nhập mã khuyến mãi và kiểm tra tổng giá trị đơn hàng.
+    </p>
+
+    <h3>Bước 5: Kiểm Tra Thông Tin Đơn Hàng & Xác Nhận Thanh Toán</h3>
+    <p>
+      Kiểm tra lại toàn bộ thông tin đơn hàng và xác nhận thanh toán để hoàn tất
+      quá trình mua sắm của bạn.
+    </p>
+
+    <h3>Những Lưu Ý Quan Trọng Khi Sử Dụng Mã Khuyến Mãi</h3>
+    <ul>
+      <li>
+        Thời hạn của mã khuyến mãi: Mỗi mã đều có thời gian áp dụng riêng.
+      </li>
+      <li>
+        Giới hạn số lần sử dụng: Một số mã có thể chỉ sử dụng được một lần hoặc
+        áp dụng trong một số điều kiện nhất định.
+      </li>
+      <li>
+        Điều kiện áp dụng mã: Một số mã yêu cầu giá trị đơn hàng tối thiểu hoặc
+        chỉ áp dụng cho các sản phẩm trong chương trình khuyến mãi.
+      </li>
+    </ul>
+
+    <h3>Vì Sao Nên Chọn Chúng Tôi?</h3>
+    <ul>
+      <li>
+        Chúng tôi cam kết sử dụng các nguyên liệu tươi ngon, không chất bảo
+        quản.
+      </li>
+      <li>
+        Thực đơn đa dạng với nhiều lựa chọn từ món ăn sáng, trưa, tối đến các
+        món ăn nhẹ và detox.
+      </li>
+      <li>
+        Đội ngũ chăm sóc khách hàng luôn sẵn sàng giải đáp thắc mắc để giúp bạn
+        sử dụng khuyến mãi thành công.
+      </li>
+    </ul>
+
+    <p class="text-center mt-5">
+      Chúng tôi hy vọng rằng với hướng dẫn chi tiết này, bạn sẽ dễ dàng nắm bắt
+      và tận dụng tốt nhất các chương trình khuyến mãi của chúng tôi!
+    </p>
+  </div>
+</div>

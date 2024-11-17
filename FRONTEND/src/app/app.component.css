@@ -1,0 +1,22 @@
+/* Đảm bảo admin-layout dùng flex để chia hai phần */
+.admin-layout {
+  display: flex;
+}
+
+.main-content {
+  /* Thiết lập phần nội dung chính ở bên phải và chiếm phần còn lại */
+  flex-grow: 1;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+@media (max-width: 991px) {
+  .sidebar {
+    width: 100%;
+    margin-top: 40px;
+  }
+  .main-content {
+    margin-left: 0;
+    width: 100%;
+  }
+}

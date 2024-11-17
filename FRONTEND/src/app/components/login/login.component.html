@@ -1,0 +1,90 @@
+<div class="container mt-5 mb-5">
+  <div class="row justify-content-center">
+    <div class="col-md-6">
+      <div class="card">
+        <div class="card-body">
+          <h5 class="card-title text-center">Đăng nhập</h5>
+          <form [formGroup]="loginForm" (ngSubmit)="login()">
+            <div class="mb-3">
+              <label for="exampleInputEmail1" class="form-label">Email</label>
+              <input
+                type="email"
+                class="form-control"
+                id="exampleInputEmail1"
+                formControlName="email"
+                required
+              />
+
+              <div
+                *ngIf="loginForm.get('email')?.errors?.['required']"
+                class="text-danger"
+              >
+                Email không được bỏ trống
+              </div>
+              <div
+                *ngIf="loginForm.get('email')?.errors?.['email']"
+                class="text-danger"
+              >
+                Email không đúng định dạng
+              </div>
+            </div>
+            <div class="mb-3">
+              <label for="exampleInputPassword1" class="form-label"
+                >Mật khẩu</label
+              >
+              <input
+                type="password"
+                class="form-control"
+                id="exampleInputPassword1"
+                formControlName="password"
+                required
+                minlength="8"
+              />
+
+              <div
+                *ngIf="loginForm.get('password')?.errors?.['required']"
+                class="text-danger"
+              >
+                Mật khẩu không được bỏ trống
+              </div>
+              <div
+                *ngIf="loginForm.get('password')?.errors?.['minlength']"
+                class="text-danger"
+              >
+                Mật khẩu phải có ít nhất 8 ký tự
+              </div>
+            </div>
+            <div class="form-check d-flex justify-content-between">
+              <div>
+                <input
+                  type="checkbox"
+                  class="form-check-input"
+                  id="exampleCheck1"
+                />
+                <label class="form-check-label" for="exampleCheck1"
+                  >Ghi nhớ đăng nhập</label
+                >
+              </div>
+              <a href="#" class="card-link">Quên mật khẩu?</a>
+            </div>
+            <div class="d-grid gap-2 mt-3 mb-3">
+              <button type="submit" class="btn btn-primary w-100">
+                <a> Đăng nhập</a>
+              </button>
+            </div>
+            <div class="text-center">
+              <p class="card-text">
+                Chưa có tài khoản?
+                <a routerLink="/register" href="/register">Đăng ký</a>
+              </p>
+            </div>
+          </form>
+
+          <div *ngIf="errorMessage" class="error-message">
+            {{ errorMessage }}
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

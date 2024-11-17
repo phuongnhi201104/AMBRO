@@ -1,0 +1,103 @@
+<div>
+  <div class="topbar">
+    <div class="left-top">
+      <span
+        ><img src="/assets/home/Icon.png" alt="Logo" class="img-fluid"
+      /></span>
+      <span><p class="sdt">0986-086-878</p></span>
+      <span><img src="/assets/home/mail.png " alt="Mail" /></span>
+      <p>ambroeatcleangmail.com</p>
+    </div>
+    <div class="right-top">
+      <a href="#"><img src="/assets/home/facebook.png" /></a>
+      <!-- <span
+          ><a href="#"><img src="/assets/home/insta.png" /></a
+        ></span> -->
+      <a><img src="/assets/home/git.png" /></a>
+    </div>
+  </div>
+</div>
+
+<header class="header">
+  <a routerLink="/" href="">
+    <div class="logo">
+      <img src="/assets/home/logo.png" alt="Logo" />
+      <img src="/assets/home/ten.png" />
+    </div>
+  </a>
+  <nav>
+    <ul>
+      <li>
+        <a routerLink="/about" href="/about" class="nav-link">Giới thiệu</a>
+      </li>
+      <li class="dropdown">
+        <a routerLink="/products" href="/products" class="nav-link">Sản phẩm</a>
+        <!-- Dropdown menu -->
+        <ul class="submenu">
+          <div class="category-box">
+            <li
+              *ngFor="let category of productCategories"
+              [class.selected]="category === selectedCategory"
+              (click)="navigateToProducts(category)"
+            >
+              {{ category }}
+            </li>
+          </div>
+        </ul>
+      </li>
+      <li class="dropdown">
+        <a href="#" class="nav-link">Công cụ</a>
+        <ul class="submenu">
+          <li>
+            <a routerLink="/dinhduong" href="/dinhduong"
+              >Tính chỉ số dinh dưỡng</a
+            >
+          </li>
+          <li><a href="#">Xây dựng thực đơn qua TDEE</a></li>
+        </ul>
+      </li>
+      <li>
+        <a routerLink="/congthuc" href="/congthuc" class="nav-link"
+          >Công thức nấu ăn</a
+        >
+      </li>
+      <li>
+        <a routerLink="/khuyenmai" href="/khuyenmai" class="nav-link"
+          >Khuyến mãi</a
+        >
+      </li>
+      <li>
+        <a routerLink="/policy" href="/policy" class="nav-link">Chính sách</a>
+      </li>
+      <li class="dropdown">
+        <a href="#" class="nav-link">Cộng đồng</a>
+        <ul class="submenu">
+          <li><a routerLink="/congthuc" href="/congthuc">AmbroShare</a></li>
+          <li><a href="#">AmbroConnect</a></li>
+        </ul>
+      </li>
+    </ul>
+  </nav>
+  <div class="icon">
+    <a href="#"><img src="assets/home/search.png" class="icons" /></a>
+    <a routerLink="/cart" href="/cart"
+      ><img src="assets/home/cart.png" class="icons"
+    /></a>
+
+    <!-- Kiểm tra trạng thái đăng nhập -->
+    <div *ngIf="userName; else loginButton" class="user-info">
+      <span class="user-name">{{ userName }}</span>
+      <button class="custom-button" (click)="logout()">Đăng xuất</button>
+    </div>
+    <ng-template #loginButton>
+      <button class="custom-button">
+        <a routerLink="/register" href="/register">Tài khoản</a>
+      </button>
+    </ng-template>
+
+    <!--   
+    <button class="custom-button">
+      <a routerLink="/register" href="/register"> Tài khoản </a>
+    </button> -->
+  </div>
+</header>

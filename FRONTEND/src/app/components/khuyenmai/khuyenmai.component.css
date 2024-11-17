@@ -1,0 +1,128 @@
+.promotion-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.promotion-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+/* .promotion-card .card-img-top {
+  height: 200px;
+  object-fit: cover;
+} */
+
+.promotion-card .card-body {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.promotion-card .card-title {
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.promotion-card .card-text {
+  color: #6c757d;
+}
+
+/* General Styles */
+body {
+  font-family: "Arial", sans-serif;
+  background-color: #f9f9f9;
+}
+
+/* Promotion Cards */
+.promotion-card {
+  border-radius: 8px;
+  transition: transform 0.3s ease-in-out;
+}
+
+.promotion-card:hover {
+  transform: translateY(-5px);
+}
+
+.promotion-card .card-body {
+  padding: 15px;
+}
+
+.promotion-card .card-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.promotion-card .card-text {
+  color: #555;
+}
+
+.promotion-card .card-body a {
+  text-decoration: none;
+}
+
+/* Promotion Guide Section */
+.promotion-guide {
+  padding: 30px 0;
+}
+
+.promotion-guide h2 {
+  font-size: 2rem;
+  color: #117554;
+  font-weight: bold;
+}
+
+.promotion-guide h3 {
+  font-size: 1.5rem;
+  color: #333;
+  margin-top: 30px;
+  font-weight: bold;
+}
+
+.promotion-guide ul {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+
+.promotion-guide ul li {
+  margin-bottom: 10px;
+  font-size: 1rem;
+  color: #555;
+}
+
+.promotion-guide p {
+  font-size: 1.1rem;
+  color: #333;
+}
+
+.promotion-guide .lead {
+  font-size: 1.2rem;
+  color: #666;
+}
+
+.promotion-guide .text-center {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+/* Add extra spacing and mobile responsiveness */
+@media (max-width: 767px) {
+  .promotion-guide h2 {
+    font-size: 1.5rem;
+  }
+  .promotion-guide h3 {
+    font-size: 1.2rem;
+  }
+}
+.promotion-title {
+  color: #117554; /* Màu xanh lá */
+}
+
+.card-title {
+  color: #117554; /* Màu xanh lá */
+}
+
+.img-fluid {
+  max-width: 100%;
+  height: auto; /* Đảm bảo ảnh co giãn theo kích thước */
+}

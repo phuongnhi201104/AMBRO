@@ -1,0 +1,17 @@
+[
+  {
+    "img": "/assets/home/product1.png",
+    "name": "Granola",
+    "price": "210.000đ/300g"
+  },
+  {
+    "img": "/assets/home/product2.png",
+    "name": "Bánh ngói hạnh nhận",
+    "price": "70.000đ/100g"
+  },
+  {
+    "img": "/assets/home/product3.png",
+    "name": "Bánh Waffle yến mạch",
+    "price": "55.000đ/200g:"
+  }
+]

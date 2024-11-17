@@ -1,0 +1,175 @@
+.home1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("/assets/home/home1.png");
+  padding: 0px;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;
+
+  background-size: cover;
+  margin-bottom: 20px;
+}
+
+/* Product Section */
+.products {
+  background-color: #117554;
+  padding: 30px;
+  margin-bottom: 20px;
+}
+
+.new_products {
+  background-color: #fefae9;
+  padding: 30px;
+  margin-bottom: 20px;
+}
+.product-list {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 30px;
+}
+
+.product {
+  width: 30%;
+  height: 40%;
+  margin-bottom: 30px;
+  text-align: center;
+  border: 1px solid #ddd; /* Add a border for better separation */
+  border-radius: 5px; /* Add rounded corners */
+  padding: 10px;
+  background-color: #ffffff;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+}
+
+.product h3 {
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 10px;
+  color: #253d4e;
+}
+
+.product p {
+  font-size: 20px;
+  color: #3bb77e;
+  margin-bottom: 10px;
+}
+
+.container-topseller {
+  border: 3px solid #ddd;
+  padding: 40px;
+}
+.product img {
+  width: 70%;
+}
+
+.heart {
+  color: pink;
+  font-size: 20px;
+}
+
+h2 {
+  text-align: center;
+  color: #fefae9;
+  font-size: 48px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+
+.home2 {
+  width: 100%;
+  margin-bottom: 20px;
+}
+.home3 {
+  width: 100%;
+  margin-bottom: 20px;
+}
+.home4 {
+  width: 100%;
+  margin-bottom: 20px;
+}
+.content {
+  position: absolute;
+  top: 95%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+}
+
+.content .sub {
+  max-width: 500px;
+  line-height: 2;
+  color: black;
+}
+
+.sdt,
+.email {
+  color: green;
+  margin-right: 20px;
+}
+.content button {
+  color: white;
+  background-color: #28a745;
+  margin-bottom: 20px;
+}
+.lienhe {
+  display: flex;
+}
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Màu nền mờ */
+  z-index: 999; /* Đặt trên các phần tử khác */
+  display: none; /* Ẩn ban đầu */
+}
+
+.popup {
+  /* Styles cho popup */
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: white;
+  padding: 20px;
+  z-index: 1000;
+  display: none; /* Ẩn ban đầu */
+}
+
+.show {
+  display: block; /* Hiển thị khi cần */
+}
+
+.owl-nav button {
+  background-color: #117554;
+  color: #fff;
+  border: none;
+  padding: 5px 15px;
+  margin: 0 5px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.owl-nav button:hover {
+  background-color: #28a745;
+}
+
+.owl-dots {
+  text-align: center;
+  margin-top: 15px;
+}
+
+.owl-dot {
+  width: 12px;
+  height: 12px;
+  margin: 0 5px;
+  background-color: #117554;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+.owl-dot.active {
+  background-color: #28a745;
+}

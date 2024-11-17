@@ -1,0 +1,87 @@
+.container {
+  margin-top: 20px;
+}
+
+.list-group-item {
+  cursor: pointer;
+  font-weight: 500;
+  padding: 12px;
+  transition: background-color 0.3s ease;
+}
+
+.list-group-item.active {
+  background-color: #117554;
+  color: #fff;
+}
+
+.list-group-item:hover {
+  background-color: #f0f0f5;
+}
+
+.row {
+  margin-bottom: 50px;
+}
+.col-md-8 {
+  background-color: #fafafa;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  font-family: Arial, sans-serif;
+}
+
+/* Tiêu đề của chính sách */
+h2 {
+  font-size: 26px;
+  color: #333;
+  border-bottom: 2px solid #117554;
+  padding-bottom: 8px;
+  margin-bottom: 20px;
+}
+
+/* Nội dung của chính sách */
+.policy-content p {
+  line-height: 1.8;
+  color: #555;
+  margin-bottom: 15px;
+  font-size: 16px;
+}
+
+/* In đậm các mục chính */
+.policy-content ul li strong {
+  font-weight: 700;
+  color: #333;
+}
+
+/* Danh sách có số thứ tự */
+.policy-content ul {
+  padding-left: 25px;
+  margin-bottom: 20px;
+  color: #333;
+}
+
+.policy-content ul li {
+  font-weight: 600;
+  margin-bottom: 10px;
+  line-height: 1.6;
+}
+
+/* Liên hệ */
+.policy-contact {
+  margin-top: 20px;
+  font-size: 14px;
+  color: #117554;
+}
+
+.policy-contact a {
+  color: #117554;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.policy-contact a:hover {
+  text-decoration: underline;
+}
+
+.custom-spacing {
+  margin-right: 20px; /* khoảng cách bên phải giữa 2 cột */
+}

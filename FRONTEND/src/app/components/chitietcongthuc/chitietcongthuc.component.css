@@ -1,0 +1,36 @@
+.container {
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+h1.display-5 {
+  color: #2c3e50;
+}
+
+.list-group-item {
+  background-color: #ffffff;
+  border: none;
+  font-size: 1rem;
+  color: #34495e;
+}
+
+h3,
+h4 {
+  color: #1abc9c;
+}
+
+p {
+  font-size: 1rem;
+  color: #7f8c8d;
+}
+
+/* Đảm bảo ảnh có kích thước đồng nhất */
+.recipe-image {
+  width: 100%; /* Đảm bảo ảnh chiếm toàn bộ chiều rộng của cột */
+  height: 250px; /* Chiều cao cố định */
+  object-fit: cover; /* Đảm bảo ảnh không bị méo và phủ đầy khu vực */
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
